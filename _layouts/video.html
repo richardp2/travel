@@ -1,0 +1,21 @@
+{% include head.html %}
+            
+          <article itemscope itemtype="http://schema.org/BlogPosting" class="post single format-video">
+            <header>
+              <h2 itemProp="headline">{{ page.title }}</h2>
+              {% assign post = page %}{% include partials/meta.html %}
+            </header>
+            
+            <section class="post-content" itemProp="articleBody">
+              {% oembed https://www.youtube.com/watch?v={{page.video}}&rel=0 width=560 height=315 %}
+              {{ content }}
+            </section><!-- .post-content -->
+            
+            <footer>              
+              {% if page.comments %}
+              <div id="disqus_thread"></div> 
+              {% endif %}
+            </footer>
+          </article><!-- .post.single.format-video -->
+        
+{% include foot.html %}
