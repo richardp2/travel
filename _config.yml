@@ -7,14 +7,19 @@ url: http://travel.perry-online.me.uk
 email: travel@perry-online.me.uk
 
 markdown: kramdown
+kramdown:
+  use_coderay: true
 pygments: true
 exclude: 
 - 'changes'
 - 'Gemfile'
 - 'Gemfile.lock'
-- 'params.json'
+- 'Gruntfile.js'
+- 'node_modules'
+- 'package.json'
 - 'Rakefile'
 - 'README.md'
+gems: ["emoji_for_jekyll"]
 
 encoding: utf-8
 

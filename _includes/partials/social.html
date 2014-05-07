@@ -1,4 +1,4 @@
-{% assign author = site.data.authors[site.author] %}
+{% for authors in site.author %}{% unless forloop.last %}{% assign author = site.data.authors[authors] %}
         <div class='social'>
           <span class="fa-stack fa-2x">
             <a href='//www.facebook.com/{{author.facebook}}' title='Facebook'>
@@ -31,3 +31,4 @@
             </a>
           </span>
         </div>
+{% endunless %}{% endfor %}
