@@ -71,7 +71,7 @@ task :deploy, [:message] => [:build, :commit, :push, :generate] do |t, args|
   args.with_defaults(:message => "Site updated at #{Time.now.utc}")
   
   Dir.mktmpdir do |tmp|
-    system "git clone git@github.com:#{GITHUB_REPONAME}.git -b master #{tmp}"
+    system "git clone git@github.com:#{GITHUB_REPONAME}.git -b gh-pages #{tmp}"
     cp_r "_site/.", tmp
     
     pwd = Dir.pwd
@@ -80,7 +80,7 @@ task :deploy, [:message] => [:build, :commit, :push, :generate] do |t, args|
     system "git add -A"
     system "git commit -m #{args[:message].inspect}"
     system "git remote set-url --add origin git@bitbucket.org:#{BITBUCKET_REPO}.git"
-    system "git push origin master"
+    system "git push origin gh-pages"
     
     Dir.chdir pwd
   end
