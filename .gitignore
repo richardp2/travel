@@ -1,0 +1,45 @@
+changes
+Gemfile.lock
+_includes/css/grunt.css
+_includes/scripts/grunt.js
+_site
+_drafts
+_mode_modules
+_cache
+_gist_cache
+_site/
+_drafts/
+_node_modules/
+_cache/
+_gist_cache/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
