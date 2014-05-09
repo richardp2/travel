@@ -1,6 +1,7 @@
 name: Rosie & Jim's Travel Blog
 description: A blog of all our travels
-author:
+owner: rosiejim
+authors:
 - richard
 - rosie
 url: http://travel.perry-online.me.uk

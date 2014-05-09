@@ -1,5 +1,5 @@
 <aside class='authors'>
-  <h3><a href="/about/" title="About Us">About Us</a></h3>{% for authors in site.author %}{% assign author = site.data.authors[authors] %}
+  <h3><a href="/about/" title="About Us">About Us</a></h3>{% for a in site.authors %}{% assign author = site.data.authors[a] %}
 {% capture image %}{% if author.gravatar %}https://secure.gravatar.com/avatar/{{author.gravatar}}?s=150 %}{% else %}/assets/images/{{author.image}}{% endif %}{% endcapture %}
   <img src="{{image}}" title="{{author.name}}" alt="{{author.name}}" />
   <p>{{author.name}}<br>{{author.about}}</p>
