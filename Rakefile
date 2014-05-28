@@ -96,7 +96,8 @@ end
 desc "Publish draft posts and update the date field"  
 task :publish, [:file] do |t, args|
   require "time"
-
+  require 'yaml'
+  
   if args[:file]
     file = "_drafts/#{args[:file]}"
     text = File.read(file)
@@ -107,6 +108,30 @@ task :publish, [:file] do |t, args|
     dest = "_posts/#{today}-#{post_name}"
     File.open(dest, 'w') {|f| f.write(text) }
     puts "Published file #{post_name}"
+    dest = "../perry-online/_posts/#{today}-#{post_name}"
+    data = YAML::load_file file
+    if data['permalink']
+      permalink = data['permalink']
+    else
+      permalink = '/'
+      data['categories'].each do |category|
+        permalink += "#{category.downcase!}/"
+      end
+      permalink += "#{args[:file].slice!(11..-4)}/"
+    end
+    File.open(dest, 'w') {|f| 
+      f.write("---") 
+      f.write("\n")
+      f.write("blog: travel")
+      f.write("\n")
+      f.write("date: #{data['date']}")
+      f.write("\n")
+      f.write("title: \"#{data['title']}\"")
+      f.write("\n")
+      f.write("permalink: #{permalink}")
+      f.write("\n")
+      f.write("---") 
+    }
     File.delete(file)
     puts "Deleted draft file #{post_name}"
   else
@@ -114,5 +139,41 @@ task :publish, [:file] do |t, args|
     puts "\n\tUsage:"
     puts "\trake publish[draft-post.md]"
     puts "\nPlease try again"
+  end
+end
+
+task :global do 
+  Dir.foreach("_posts/") do |item|
+    next if item == '.' or item == '..'
+    if item
+      file = "_posts/#{item}"
+      data = YAML::load_file( file )
+      dest = "../perry-online/_posts/#{item}"
+      if data['permalink']
+        permalink = data['permalink']
+      else
+        permalink = '/'
+        data['categories'].each do |category|
+          permalink += "#{category.downcase!}/"
+        end
+        permalink += item.slice!(11..-4)
+        permalink += "/"
+      end
+      File.open(dest, 'w') {|f| 
+        f.write("---") 
+        f.write("\n")
+        f.write("blog: travel")
+        f.write("\n")
+        f.write("date: #{data['date']}")
+        f.write("\n")
+        f.write("title: \"#{data['title']}\"")
+        f.write("\n")
+        f.write("permalink: #{permalink}")
+        f.write("\n")
+        f.write("---") 
+      }
+
+      puts "Post: #{data['title']} generated"
+    end  
   end
 end

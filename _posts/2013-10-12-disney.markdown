@@ -4,18 +4,11 @@ comments: true
 date: 2013-10-12 19:43:01+00:00
 layout: post
 published: false
-slug: disney
 title: Back at Disney :-)
 wordpress_id: 1469
 categories:
 - Easter 2013
 - Paris
-tags:
-- Disneyland
-- France
-- George
-- Paris
-- Ranch
 ---
 
 This Easter we decided it was finally time to visit Paris. I've been promising to take Rosie there for almost as long as we've known each other and I thought it was about time. Also when we left Disney in Hong Kong after my 25th birthday, we decided to do another one for Rosie's 25th. We may be 2 years late, but we have finally made it. Not only did we decide to visit Disney in Paris, but we chose to stay at Disney's Davy Crockett Ranch :-).

@@ -10,8 +10,7 @@ module Jekyll
         
     def category_dir(base_dir, category)
       base_dir = base_dir.gsub(/^\/*(.*)\/*$/, '\1')
-      category = category.split
-      category = category[0].gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase
+      category = category.gsub(/\s/, '-').gsub(/-{2,}/, '-').downcase
       File.join(base_dir, category)
     end
 
@@ -24,12 +23,13 @@ module Jekyll
     def category_links(categories)
       base_dir = @context.registers[:site].config['category_dir']
       @categorydir = ''
-      categories = categories.map do |category|
+      categories = categories.sort!.map do |category|
+        next if @categorydir.include? self.category_dir(base_dir, category)
         base_dir = File.join(base_dir, @categorydir) unless @categorydir == ''
-        @categorydir = self.category_dir(base_dir, category)
+        @categorydir = self.category_dir(base_dir, category).chomp.split("/").uniq.join("/")
         # Make sure the category directory begins with a slash.
         @categorydir = "/#{@categorydir}" unless @categorydir =~ /^\//
-          "<a class='category' href='#{@categorydir}/'>#{category.titlecase}</a>"
+          "<a class='category' href='#{@categorydir}/'>#{category.gsub(/\-/, ' ').titlecase}</a>"
       end
       
       @categorydir = ''
