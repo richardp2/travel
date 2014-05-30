@@ -1,13 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2010-12-31 18:00:05+00:00
 layout: post
-slug: the-land-of-fire-ice
 title: The Land of Fire & Ice
 wordpress_id: 709
 categories:
-- New Year 2010/11
+- New-Year-2010-11
+- Iceland
 - Reykjavik
 tags:
 - Church

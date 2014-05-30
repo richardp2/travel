@@ -1,13 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-28 21:00:39+00:00
 layout: post
-slug: naadam-festival
 title: Naadam Festival
 wordpress_id: 129
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Töv
 tags:
 - 3 Nations

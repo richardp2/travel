@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-13 22:06:15+00:00
 layout: post
-slug: lounging-by-the-pool
 title: Lounging by the Pool
 wordpress_id: 518
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Marrakech
 - Morocco

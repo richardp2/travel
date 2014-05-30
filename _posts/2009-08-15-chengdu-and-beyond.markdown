@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-08-15 21:15:37+00:00
 layout: post
-slug: chengdu-and-beyond
 title: Chengdu and beyond
 wordpress_id: 208
 categories:
+- China-2009
 - Chengdu
-- China 2009
 tags:
 - Park
 - Renmin Park

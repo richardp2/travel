@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-08 21:00:37+00:00
 layout: post
-slug: the-potala-palace-and-sera-monastery
 title: The Potala Palace and Sera Monastery
 wordpress_id: 168
 categories:
-- China 2009
+- China-2009
 - Lhasa
 tags:
 - Buddhist

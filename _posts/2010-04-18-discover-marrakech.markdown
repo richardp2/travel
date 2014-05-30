@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-18 21:16:35+00:00
 layout: post
-slug: discover-marrakech
 title: Discover Marrakech
 wordpress_id: 584
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Bahia Palace
 - Djemaa El-Fna

@@ -1,14 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-12 21:00:07+00:00
 layout: post
-slug: air-china
-title: Air China!
+title: "Air China!"
 wordpress_id: 181
 categories:
-- Chengdu
-- China 2009
+- China-2009
 - Lhasa
 tags:
 - Air China

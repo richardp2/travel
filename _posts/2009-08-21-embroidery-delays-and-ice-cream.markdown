@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-21 21:00:53+00:00
 layout: post
-slug: embroidery-delays-and-ice-cream
 title: Embroidery, delays and ice cream
 wordpress_id: 242
 categories:
-- China 2009
+- China-2009
 - Shanghai
 tags:
 - Acrobats

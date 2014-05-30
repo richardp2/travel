@@ -1,13 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-25 21:00:21+00:00
 layout: post
-slug: monasteries-saunas-and-pizza
 title: Monasteries, saunas and pizza
 wordpress_id: 118
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Ulaanbaatar
 tags:
 - 3 Nations

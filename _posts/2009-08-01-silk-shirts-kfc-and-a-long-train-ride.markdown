@@ -1,15 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-08-01 21:00:27+00:00
 layout: post
-slug: silk-shirts-kfc-and-a-long-train-ride
 title: Silk shirts, KFC and a long train ride
 wordpress_id: 142
 categories:
+- China-2009
+- Three-Nations
 - Beijing
-- Three Nations 2009
-- Xi'an
 tags:
 - 3 Nations
 - Market

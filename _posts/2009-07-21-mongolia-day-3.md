@@ -6,7 +6,8 @@ title: Musicians, flooding and evacuation of site
 wordpress_id: 98
 categories:
 - China-2009
-- Three-Nations-2009
+- Three-Nations
+- Mongolia
 - Töv
 flickimg: 14280260012
 ---

@@ -1,15 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2011-04-17 15:28:00+00:00
 layout: post
-slug: a-very-long-journey
 title: A Very Long Journey
 wordpress_id: 787
 categories:
+- Vietnam-2011
 - Hanoi
-- Kuala Lumpur
-- Vietnam 2011
 tags:
 - City
 - Little Hanoi

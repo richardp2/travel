@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-14 22:10:50+00:00
 layout: post
-slug: souks-and-the-medina
 title: Souks and the Medina
 wordpress_id: 520
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Djemaa El-Fna
 - Market

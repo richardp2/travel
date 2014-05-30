@@ -3,12 +3,11 @@ author: rosie
 comments: true
 date: 2009-08-15 01:37:37+00:00
 layout: post
-slug: results
-title: Results :-)
+title: "Results :-)"
 wordpress_id: 189
 categories:
+- China-2009
 - Chengdu
-- China 2009
 post_format:
 - Aside
 ---

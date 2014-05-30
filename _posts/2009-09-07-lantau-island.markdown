@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-07 17:02:32+00:00
 layout: post
-slug: lantau-island
 title: Lantau Island
 wordpress_id: 376
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - Big Buddha
 - Buddhist

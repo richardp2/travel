@@ -1,13 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-26 21:00:24+00:00
 layout: post
-slug: national-park-litter-pick
 title: National Park Litter Pick
 wordpress_id: 122
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Töv
 tags:
 - 3 Nations

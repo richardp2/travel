@@ -1,13 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2011-01-01 08:56:59+00:00
 layout: post
-slug: northern-lights-hunting
 title: Northern Lights Hunting
 wordpress_id: 731
 categories:
-- New Year 2010/11
+- New-Year-2010-11
+- Iceland
 - Reykjavik
 tags:
 - Fireworks

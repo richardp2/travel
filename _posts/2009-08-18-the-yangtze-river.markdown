@@ -1,14 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-18 21:00:26+00:00
 layout: post
-slug: the-yangtze-river
 title: The Yangtze River
 wordpress_id: 227
 categories:
-- China 2009
-- Chongqing
+- China-2009
 - Yangtze
 tags:
 - City of Ghosts

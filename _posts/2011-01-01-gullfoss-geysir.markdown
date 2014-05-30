@@ -1,13 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2011-01-01 18:31:42+00:00
 layout: post
-slug: gullfoss-geysir
 title: Gullfoss & Geysir
 wordpress_id: 727
 categories:
-- New Year 2010/11
+- New-Year-2010-11
+- Iceland
 - Reykjavik
 tags:
 - Atlantic Rift

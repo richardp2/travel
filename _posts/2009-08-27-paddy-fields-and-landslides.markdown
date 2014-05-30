@@ -1,26 +1,17 @@
 ---
-author: admin
 comments: true
 date: 2009-08-27 10:42:21+00:00
 layout: post
-slug: paddy-fields-and-landslides
 title: Paddy fields and landslides
 wordpress_id: 282
 categories:
-- China 2009
+- China-2009
 - Guilin
-- Shanghai
 tags:
 - Landslides
 - Paddy Fields
 - rice
 ---
-
-
-
-
-
-
 
 
 Since our last post, we have finished up in Shanghai, and we are now in Guilin. Time for a bit of a catch up. Our last day in Shanghai we had no tours booked, so we had a lazy morning and only headed into the city for lunch. After lunch, it was time to visit Renmin (People's) Park/Square to see how it differed from every other Renmin Square in China. Turns out not a lot, but the museum on the south side of the park was quite an interesting structure.<!-- more -->

@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-31 21:00:55+00:00
 layout: post
-slug: the-sites-of-beijing
 title: The Sights of Beijing
 wordpress_id: 139
 categories:
+- China-2009
+- Three-Nations
 - Beijing
-- Three Nations 2009
 tags:
 - 3 Nations
 - 900GB Pen Drive

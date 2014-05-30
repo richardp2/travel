@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-08-05 13:21:58+00:00
 layout: post
-slug: blog-updates
 title: Blog Updates
 wordpress_id: 85
 categories:
-- China 2009
-- Three Nations 2009
+- China-2009
+- Three-Nations
 post_format:
 - Aside
 ---

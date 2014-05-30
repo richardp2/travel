@@ -1,13 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2011-01-02 19:00:08+00:00
 layout: post
-slug: the-blue-lagoon
 title: The Blue Lagoon
 wordpress_id: 757
 categories:
-- New Year 2010/11
+- New-Year-2010-11
+- Iceland
 - Reykjavik
 tags:
 - blue lagoon

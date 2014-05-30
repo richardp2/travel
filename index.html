@@ -3,18 +3,7 @@ layout: default
 title: Home
 comments: false
 ---
-        <article>
-          Welcome to our Travel Blog. We set this site up as a diary of all our travelling
-          exploits, starting with our trip to China in the summer of 2009. The blog was set
-          up to keep everyone informed of where we were and what we were doing while we were
-          in China for a short 2 month “sabbatical”. All our travel photos can be viewed along
-          with all our other photos on our <a href='http://photos.perry-online.me.uk/' 
-                                            title="Rosie & Jim's Photo Gallery">Photo Site</a>.
 
-          <h3>Next trip: tbc</h3>
-
-          <h2>Latest Posts</h2>
-        </article>
         {% for post in paginator.posts %}
           <article itemscope itemtype='http://schema.org/BlogPosting' class='post summary{% if post.layout != 'post' %} format-{{ post.layout }}{% endif %}'>
               {% include partials/summary.html %}

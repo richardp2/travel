@@ -1,15 +1,14 @@
 ---
-author: admin
 comments: true
 date: 2009-07-29 21:00:16+00:00
 layout: post
-slug: service-project-review-day
 title: Service Project Review Day
 wordpress_id: 134
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Töv
-- Ulaanbaatar
 tags:
 - 3 Nations
 - Black Market

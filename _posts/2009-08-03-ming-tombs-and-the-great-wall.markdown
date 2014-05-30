@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-08-03 21:00:08+00:00
 layout: post
-slug: ming-tombs-and-the-great-wall
 title: Ming Tombs and the Great Wall
 wordpress_id: 149
 categories:
+- China-2009
+- Three-Nations
 - Beijing
-- Three Nations 2009
 tags:
 - 3 Nations
 - Great Wall

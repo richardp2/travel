@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2011-04-18 11:57:00+00:00
 layout: post
-slug: ha-long-bay
 title: Ha Long Bay
 wordpress_id: 802
 categories:
-- Ha Long Bay
-- Vietnam 2011
+- Vietnam-2011
+- Ha-Long-Bay
 tags:
 - Bay
 - Boat Trip

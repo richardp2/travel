@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-01 21:36:56+00:00
 layout: post
-slug: last-stop-hong-kong
-title: Last Stop...Hong Kong
+title: "Last Stop...Hong Kong"
 wordpress_id: 326
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - BP House
 - Harbour

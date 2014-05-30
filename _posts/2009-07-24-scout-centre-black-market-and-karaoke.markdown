@@ -1,13 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-24 21:00:21+00:00
 layout: post
-slug: scout-centre-black-market-and-karaoke
 title: Scout Centre, Black Market and Karaoke
 wordpress_id: 114
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Ulaanbaatar
 tags:
 - 3 Nations

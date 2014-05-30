@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-16 21:50:20+00:00
 layout: post
-slug: sunshine-friday
 title: Sunshine Friday
 wordpress_id: 537
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Marrakech
 - Morocco

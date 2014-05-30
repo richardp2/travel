@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-24 14:36:32+00:00
 layout: post
-slug: volcanic-honeymoon-extension
 title: Volcanic Honeymoon Extension
 wordpress_id: 588
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Marrakech
 - Morocco

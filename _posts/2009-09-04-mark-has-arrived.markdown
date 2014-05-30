@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-04 17:49:22+00:00
 layout: post
-slug: mark-has-arrived
 title: Mark has Arrived!
 wordpress_id: 368
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - Aviary
 - Escalators

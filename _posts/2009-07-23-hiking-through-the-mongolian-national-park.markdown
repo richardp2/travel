@@ -1,13 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-23 21:00:41+00:00
 layout: post
-slug: hiking-through-the-mongolian-national-park
 title: Hiking through the Mongolian National Park
 wordpress_id: 109
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Töv
 tags:
 - 3 Nations

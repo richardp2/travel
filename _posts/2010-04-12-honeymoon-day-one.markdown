@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-12 21:57:52+00:00
 layout: post
-slug: honeymoon-day-one
 title: Honeymoon Day One
 wordpress_id: 516
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Marrakech
 - Morocco

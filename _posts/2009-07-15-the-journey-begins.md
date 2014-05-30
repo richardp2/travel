@@ -6,7 +6,7 @@ title: The journey begins
 wordpress_id: 40
 categories:
 - China-2009
-- Three-Nations-2009
+- Three-Nations
 flickimg: 14258613876
 ---
 

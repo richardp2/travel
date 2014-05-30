@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-20 21:00:35+00:00
 layout: post
-slug: the-three-gorges
 title: The Three Gorges
 wordpress_id: 237
 categories:
-- China 2009
+- China-2009
 - Yangtze
 tags:
 - Cruise

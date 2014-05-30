@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-22 21:00:06+00:00
 layout: post
-slug: gardens-canals-and-wedding-dresses
 title: Gardens, canals and wedding dresses
 wordpress_id: 254
 categories:
-- China 2009
+- China-2009
 - Shanghai
 tags:
 - Canals

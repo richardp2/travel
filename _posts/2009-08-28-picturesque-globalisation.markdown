@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-28 15:17:30+00:00
 layout: post
-slug: picturesque-globalisation
 title: Picturesque Globalisation
 wordpress_id: 309
 categories:
-- China 2009
+- China-2009
 - Guilin
 tags:
 - Cruise

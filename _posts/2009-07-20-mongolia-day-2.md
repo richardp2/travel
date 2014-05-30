@@ -6,7 +6,8 @@ title: Nomads, Airag and Curd
 wordpress_id: 90
 categories:
 - China-2009
-- Three-Nations-2009
+- Three-Nations
+- Mongolia
 - Töv
 flickimg: 14095596000
 ---

@@ -6,7 +6,7 @@ title: Olympic village, Summer Palace and Bell Tower
 wordpress_id: 77
 categories:
 - China-2009
-- Three-Nations-2009
+- Three-Nations
 - Beijing
 ---
 

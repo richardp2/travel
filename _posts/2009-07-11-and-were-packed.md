@@ -6,7 +6,7 @@ title: And we're packed!
 wordpress_id: 19
 categories:
 - China-2009
-- Three-Nations-2009
+- Three-Nations
 ---
 
 So we're finally packed, with just a few everyday essentials left out. We now only have two days left in

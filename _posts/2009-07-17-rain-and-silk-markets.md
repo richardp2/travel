@@ -6,7 +6,7 @@ title: Rain and Silk Markets
 wordpress_id: 74
 categories:
 - China-2009
-- Three-Nations-2009
+- Three-Nations
 - Beijing
 ---
 

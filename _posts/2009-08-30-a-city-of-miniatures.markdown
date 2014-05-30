@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-30 13:41:13+00:00
 layout: post
-slug: a-city-of-miniatures
 title: A City of Miniatures
 wordpress_id: 317
 categories:
-- China 2009
+- China-2009
 - Guilin
 tags:
 - Cormorant Fishing

@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-07 21:00:17+00:00
 layout: post
-slug: lhasa-here-we-come
 title: Lhasa Here We Come!
 wordpress_id: 164
 categories:
-- China 2009
+- China-2009
 - Lhasa
 tags:
 - Lhasa

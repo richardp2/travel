@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-03 16:03:19+00:00
 layout: post
-slug: lifes-a-beach
 title: Life's a Beach
 wordpress_id: 343
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - Beach
 - Market

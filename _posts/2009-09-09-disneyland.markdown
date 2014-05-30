@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-09 20:30:15+00:00
 layout: post
-slug: disneyland
-title: Disneyland!!!! :-) :-)
+title: "Disneyland!!!! :-) :-)"
 wordpress_id: 382
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - Birthday
 - Disney

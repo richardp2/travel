@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-08-14 13:27:26+00:00
 layout: post
-slug: pandas-and-buddhas
 title: Panda's and Buddha's
 wordpress_id: 183
 categories:
+- China-2009
 - Chengdu
-- China 2009
 tags:
 - Buddhist
 - Giant Buddha

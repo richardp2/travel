@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-15 20:18:25+00:00
 layout: post
-slug: the-atlas-mountains
 title: The Atlas Mountains
 wordpress_id: 529
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Atlas Mountains
 - Marrakech

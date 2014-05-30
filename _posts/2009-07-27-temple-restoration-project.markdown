@@ -1,13 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-27 21:00:52+00:00
 layout: post
-slug: temple-restoration-project
 title: Temple Restoration Project
 wordpress_id: 124
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Töv
 tags:
 - 3 Nations

@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-08 20:08:00+00:00
 layout: post
-slug: bbq-on-the-beach
 title: BBQ on the Beach
 wordpress_id: 380
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - BBQ
 - Beach

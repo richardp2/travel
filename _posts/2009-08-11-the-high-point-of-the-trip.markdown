@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-11 12:26:56+00:00
 layout: post
-slug: the-high-point-of-the-trip
 title: The High Point of the Trip
 wordpress_id: 177
 categories:
-- China 2009
+- China-2009
 - Lhasa
 tags:
 - 5190m

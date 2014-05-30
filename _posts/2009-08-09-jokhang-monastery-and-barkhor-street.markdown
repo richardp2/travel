@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-09 10:04:09+00:00
 layout: post
-slug: jokhang-monastery-and-barkhor-street
 title: Jokhang Monastery and Barkhor Street
 wordpress_id: 173
 categories:
-- China 2009
+- China-2009
 - Lhasa
 tags:
 - Barkhor Street

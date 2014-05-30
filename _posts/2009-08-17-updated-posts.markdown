@@ -1,15 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-08-17 02:11:33+00:00
 layout: post
-slug: updated-posts
 title: Updated Posts
 wordpress_id: 202
 categories:
-- Beijing
-- Three Nations 2009
-- Ulaanbaatar
+- China-2009
+- Three-Nations
 post_format:
 - Aside
 tags:

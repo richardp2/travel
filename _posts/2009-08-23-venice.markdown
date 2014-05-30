@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-23 14:12:46+00:00
 layout: post
-slug: venice
-title: Venice???
+title: "Venice???"
 wordpress_id: 263
 categories:
-- China 2009
+- China-2009
 - Shanghai
 tags:
 - Canals

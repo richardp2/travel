@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-16 21:44:33+00:00
 layout: post
-slug: rock-carvings-cityscapes
 title: Rock Carvings & Cityscapes
 wordpress_id: 213
 categories:
-- China 2009
+- China-2009
 - Chongqing
 tags:
 - Ballroom Dancing

@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-06 16:47:11+00:00
 layout: post
-slug: everybody-was-kung-fu-fighting
 title: Everybody was Kung Fu Fighting!!
 wordpress_id: 374
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - BP House
 - Kung Fu

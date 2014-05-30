@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-08-02 21:00:43+00:00
 layout: post
-slug: an-emperors-army-and-hot-springs
 title: An Emperor's Army and Hot Springs
 wordpress_id: 145
 categories:
-- Beijing
-- Three Nations 2009
+- China-2009
+- Three-Nations
 - Xi'an
 tags:
 - 3 Nations

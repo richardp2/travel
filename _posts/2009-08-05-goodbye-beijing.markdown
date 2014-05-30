@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-08-05 21:00:12+00:00
 layout: post
-slug: goodbye-beijing
 title: Goodbye Beijing
 wordpress_id: 154
 categories:
+- China-2009
 - Beijing
-- China 2009
 ---
 
 Took a relaxed approach to our last day in Beijing to recover from the Three Nations Expedition. Went to visit Peter Danford, who told us about a good restaurant, and a good place to get camera memory cards.

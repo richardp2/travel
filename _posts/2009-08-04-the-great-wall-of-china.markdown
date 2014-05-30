@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-08-04 21:00:35+00:00
 layout: post
-slug: the-great-wall-of-china
 title: The Great Wall of China
 wordpress_id: 151
 categories:
+- China-2009
+- Three-Nations
 - Beijing
-- Three Nations 2009
 tags:
 - 3 Nations
 - Great Wall

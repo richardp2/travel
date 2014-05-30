@@ -1,13 +1,11 @@
 ---
-author: admin
 comments: true
 date: 2009-08-25 01:22:48+00:00
 layout: post
-slug: shanghai-under-construction
 title: Shanghai ... Under Construction
 wordpress_id: 270
 categories:
-- China 2009
+- China-2009
 - Shanghai
 tags:
 - Buddhist

@@ -1,14 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2010-04-17 19:40:19+00:00
 layout: post
-slug: the-old-city
 title: The Old City
 wordpress_id: 544
 categories:
+- Honeymoon-2010
+- Morocco
 - Marrakech
-- Our Honeymoon 2010
 tags:
 - Ben Youssef Mosque
 - Calesh

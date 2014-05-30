@@ -1,13 +1,13 @@
 ---
-author: admin
 comments: true
 date: 2009-07-22 21:00:14+00:00
 layout: post
-slug: moving-back-to-site-and-resiting-the-gers
 title: Moving back to site, and resiting the Gers
 wordpress_id: 107
 categories:
-- Three Nations 2009
+- China-2009
+- Three-Nations
+- Mongolia
 - Töv
 tags:
 - 3 Nations

@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-05 15:39:21+00:00
 layout: post
-slug: vegas-baby-not-again
-title: Vegas!! ...oh, not again!
+title: "Vegas!! ...oh, not again!"
 wordpress_id: 371
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - Casino
 - Dragon

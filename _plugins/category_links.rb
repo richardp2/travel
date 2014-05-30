@@ -23,7 +23,7 @@ module Jekyll
     def category_links(categories)
       base_dir = @context.registers[:site].config['category_dir']
       @categorydir = ''
-      categories = categories.sort!.map do |category|
+      categories = categories.map do |category|
         next if @categorydir.include? self.category_dir(base_dir, category)
         base_dir = File.join(base_dir, @categorydir) unless @categorydir == ''
         @categorydir = self.category_dir(base_dir, category).chomp.split("/").uniq.join("/")

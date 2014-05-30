@@ -1,14 +1,12 @@
 ---
-author: admin
 comments: true
 date: 2009-09-02 21:38:58+00:00
 layout: post
-slug: escalators-everywhere
-title: Escalators Everywhere!!
+title: "Escalators Everywhere!!"
 wordpress_id: 328
 categories:
-- China 2009
-- Hong Kong
+- China-2009
+- Hong-Kong
 tags:
 - Aviary
 - Escalators
