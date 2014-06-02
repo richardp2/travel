@@ -6,6 +6,8 @@ layout: post
 title: The Eden Project
 wordpress_id: 997
 categories:
+- UK
+- Cornwall
 - Cornwall-2012
 flickimg: 14166809126
 ---

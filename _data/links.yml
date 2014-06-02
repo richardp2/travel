@@ -6,7 +6,12 @@
   - url: author/richard-perry/
     title: Richard Perry
   - url: author/rosie-perry/
-    title: Rosie Perry  
+    title: Rosie Perry
+  - url: author/rosie-jim/
+    title: Rosie & Jim
+  - url: archives/
+    title: Global Archives
+    
 - url: http://travel.perry-online.me.uk/
   title: Travel
   sub:
@@ -58,8 +63,6 @@
     title: Events
   - url: travel/
     title: Travel
-  - url: events/
-    title: Events
   - url: other/
     title: Other
     sub:
@@ -67,3 +70,5 @@
       title: Days Out
   - url: wedding/
     title: Our Wedding
+  - url: archives/
+    title: Photo Archives

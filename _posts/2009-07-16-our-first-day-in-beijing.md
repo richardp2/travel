@@ -5,9 +5,10 @@ layout: post
 title: Our first day in Beijing
 wordpress_id: 43
 categories:
+- China
+- Beijing
 - China-2009
 - Three-Nations
-- Beijing
 flickimg: 14095194459
 ---
 

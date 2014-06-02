@@ -5,9 +5,10 @@ layout: post
 title: Rain and Silk Markets
 wordpress_id: 74
 categories:
+- China
+- Beijing
 - China-2009
 - Three-Nations
-- Beijing
 ---
 
 We got up nice and early for breakfast so we were ready for today's programme, only to find that the

@@ -5,9 +5,10 @@ layout: post
 title: Olympic village, Summer Palace and Bell Tower
 wordpress_id: 77
 categories:
+- China
+- Beijing
 - China-2009
 - Three-Nations
-- Beijing
 ---
 
 Our first day of sun today :) and our last day in Beijing for 12 days :(. Plans did not change today so

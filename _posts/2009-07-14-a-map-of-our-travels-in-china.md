@@ -6,7 +6,6 @@ title: A map of our travels in China
 wordpress_id: 30
 categories:
 - China-2009
-- Three-Nations
 ---
 
 We have now set up a [Google Map][gm] showing the extents of our trip, where we will be going, when we

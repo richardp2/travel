@@ -119,6 +119,11 @@ task :publish, [:file] do |t, args|
       end
       permalink += "#{args[:file].slice!(11..-4)}/"
     end
+      if data['author']
+        author = data['author']
+      else
+        author = 'rosiejim'
+      end
     File.open(dest, 'w') {|f| 
       f.write("---") 
       f.write("\n")
@@ -127,6 +132,8 @@ task :publish, [:file] do |t, args|
       f.write("date: #{data['date']}")
       f.write("\n")
       f.write("title: \"#{data['title']}\"")
+      f.write("\n")
+      f.write("author: #{author}")
       f.write("\n")
       f.write("permalink: #{permalink}")
       f.write("\n")
@@ -159,6 +166,11 @@ task :global do
         permalink += item.slice!(11..-4)
         permalink += "/"
       end
+      if data['author']
+        author = data['author']
+      else
+        author = 'rosiejim'
+      end
       File.open(dest, 'w') {|f| 
         f.write("---") 
         f.write("\n")
@@ -167,6 +179,8 @@ task :global do
         f.write("date: #{data['date']}")
         f.write("\n")
         f.write("title: \"#{data['title']}\"")
+        f.write("\n")
+        f.write("author: #{author}")
         f.write("\n")
         f.write("permalink: #{permalink}")
         f.write("\n")
