@@ -8,12 +8,6 @@ categories:
 - Vietnam
 - Ha-Long-Bay
 - Vietnam-2011
-tags:
-- Bay
-- Boat Trip
-- Kayaking
-- Pearl Farm
-- Swimming
 ---
 
 The next morning we had a fairly early start. We had to sort out an overnight bag for staying on a boat in the bay, have breakfast and checkout by 7am. A tall order on most days, but especially considering the amount of sleep we had all had in the last 2 days. However, by 07:05 we were getting on the bus for another seemingly long journey south to Ha Long Bay. Hai spent about 45 minutes giving us an endless stream of information about Hanoi and Ha Long Bay, what the plan was for the next 24 hours and what we should expect. Unfortunately, by that time, he had lost half of his audience to sleep so he gave in. We stopped at an interesting lacquer ware place on route but it was only a loo stop so we weren’t there long. We arrived at the boat station at about 12 and jumped on a transport boat to reach our accommodation for the next night.

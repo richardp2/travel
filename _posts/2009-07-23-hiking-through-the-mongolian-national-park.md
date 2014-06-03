@@ -6,15 +6,9 @@ title: Hiking through the Mongolian National Park
 wordpress_id: 109
 categories:
 - Mongolia
-- Töv
+- "Töv"
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- Buddhist
-- Hiking
-- Mongolian National Park
-- Temple
 ---
 
 The next day we awoke to a clear sky, which was good as it was our day hiking through the National Park. As usual we set off on Mongolian time i.e. late! But it was only expected to be about 15 miles of relatively easy walking with a bit of scrambling. Turns out altitude is a pain in the neck!

@@ -8,11 +8,6 @@ categories:
 - Iceland
 - Reykjavik
 - New-Year-2010-11
-tags:
-- Fireworks
-- New Year
-- Northern Lights
-- Reykjavik
 ---
 
 

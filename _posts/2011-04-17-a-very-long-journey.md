@@ -8,12 +8,6 @@ categories:
 - Vietnam
 - Hanoi
 - Vietnam-2011
-tags:
-- City
-- Little Hanoi
-- Malaysia Air
-- Market
-- Night Market
 ---
 
 Our latest journey started at the relatively late hour of 6am. We headed out to Heathrow for the first leg to Kuala Lumpur. The 12½ hour flight was fairly uneventful, but neither of us managed to get much sleep so we were both a bit tired on arrival in Malaysia. We had a three hour stop over and after enquiring we found that we wouldn’t have enough time to actually visit KL. This was a little disappointing, but the airport had an outdoor courtyard area so we visited that instead.

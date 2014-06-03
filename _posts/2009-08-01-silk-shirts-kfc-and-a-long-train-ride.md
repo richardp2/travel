@@ -9,10 +9,6 @@ categories:
 - Beijing
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- Market
-- Silk Market
 ---
 
 Today was a rest day in anticipation of our night train to Xi'an. Checked out of the hotel and stowed baggage in left luggage room. Then headed out to the silk market to do a bit more shopping. Picked up some Chinese style silk shirts, and had the silk tailors make up some book covers out of off cuts for us.

@@ -8,12 +8,6 @@ categories:
 - Tibet
 - Lhasa
 - China-2009
-tags:
-- Barkhor Street
-- Buddhist
-- Jokhang Monastery
-- Market
-- Monastery
 ---
 
 Today we had a half day tour at the Jokhang Monastery and Barkhor Street market. When we arrived at the Monastery, it was raining, but there were still numerous pilgrims outside prostrating for the end of suffering to all beings. There was no time limit on the tour of this Monastery, but it only houses about 110 monks so it isn't all that big. The Monastery had an thick air of Juniper smoke and many pilgrims were filling butter lamps and reciting mantras as they walked around.

@@ -9,18 +9,6 @@ categories:
 - Beijing
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- 900GB Pen Drive
-- Dumpling Dinner
-- Forbidden City
-- Jinshang Park
-- Kung Fu Show
-- Market
-- Park
-- Pearl Market
-- Temple of Heaven
-- Tiananmen Square
 ---
 
 Today was due to be a very busy day because we were visiting lots of sites all in one go. We started the day at Jingshan Park which was a 5 minute walk from the hotel. The top of the park was the highest point in Beijing at a whopping 89m above sea level! We walked through the park and into the North gate of the Forbidden City. At this point we had a little introduction to the City and then split up to explore ourselves. A few of us used our heads and stuck with the guide was a better tour ;). Once we reached the exit, we were hurried through to a restaurant for another buffet lunch. On leaving the restaurant, Rob realised that he had not seen his Dad for a few hours so started asking around. Turned out no-one had seen him and he was officially missing. The decision was made to continue on to Tiananmen Square and hope to find him on the way. Sure enough, there he was taking pictures of everything in sight at the Square! Phew!

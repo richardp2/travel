@@ -9,8 +9,6 @@ categories:
 - Three-Nations
 post_format:
 - Aside
-tags:
-- Updates
 ---
 
 We have finally started updating our earlier posts. The list below will grow as all the earlier posts are updated.

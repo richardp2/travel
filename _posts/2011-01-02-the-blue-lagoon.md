@@ -8,14 +8,6 @@ categories:
 - Iceland
 - Reykjavik
 - New-Year-2010-11
-tags:
-- blue lagoon
-- driving
-- geothermal
-- Iceland
-- Lagoon
-- Mountains
-- Reykjavik
 ---
 
 [![Skyline of Reykjavik](http://travel.perry-online.me.uk/files/2011/01/img_3306_7_8_9-1024x245.jpg)](http://travel.perry-online.me.uk/trips/iceland10-11/the-blue-lagoon/attachment/img_3306_7_8_9/)

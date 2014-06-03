@@ -8,19 +8,6 @@ categories:
 - China
 - Chongqing
 - China-2009
-tags:
-- Ballroom Dancing
-- Buddhist
-- Confucian
-- Dazu
-- Elin
-- Huguang Huiguan
-- Kung Fu
-- Park
-- Rock Carvings
-- Tai Ji
-- Taoist
-- Tea
 ---
 
 In a change to our regularly scheduled programming, we went to Dazu today to see the rock carvings dating back as far as the 7th century. The carvings show stories influenced by Buddhist, Confucian and Taoist beliefs. We visisted one of the main sites at Mount Baoding.

@@ -6,14 +6,9 @@ title: An Emperor's Army and Hot Springs
 wordpress_id: 145
 categories:
 - China
-- Xi'an
+- "Xi'an"
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- Hot Springs
-- Terracotta Warriors
-- Xi'an
 ---
 
 Arrived in Xi'an about 08:00, taken straight to restaurant for breakfast. Turns out Xi'an is in the Sichuan province so almost all dishes contained chillies!

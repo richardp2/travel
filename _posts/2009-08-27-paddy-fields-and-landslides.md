@@ -8,10 +8,6 @@ categories:
 - China
 - Guilin
 - China-2009
-tags:
-- Landslides
-- Paddy Fields
-- rice
 ---
 
 

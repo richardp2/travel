@@ -8,11 +8,6 @@ categories:
 - Morocco
 - Marrakech
 - Honeymoon-2010
-tags:
-- Marrakech
-- Morocco
-- Pool
-- Riu Tikida Palmeraie
 ---
 
 In the Muslim world, Friday is the Sabbath day. That means that the bulk of the shops/markets, sites and sounds of Marrakech are closed. We therefore dedicated today to reading, relaxing and a little bit of swimming. We spent most of the day by the pool, but the latter part of the afternoon and evening was spent taking pictures around the hotel.

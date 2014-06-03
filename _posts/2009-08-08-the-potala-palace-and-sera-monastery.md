@@ -8,11 +8,6 @@ categories:
 - Tibet
 - Lhasa
 - China-2009
-tags:
-- Buddhist
-- Dalai Lama
-- Monastery
-- Palace
 ---
 
 We met Jocelyn (our guide) at 0930 in the hotel lobby so that we were able to get to the Potala Palace ticket office in time for our 1020 appointment. If we missed the appointment, we wouldn't be allowed into the Palace. Another odd rule at the Potala Palace is that no liquids can be carried into the building, and all bags are scanned on the way in. Very much like airport security.

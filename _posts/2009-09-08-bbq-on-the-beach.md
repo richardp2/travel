@@ -8,11 +8,6 @@ categories:
 - China
 - Hong-Kong
 - China-2009
-tags:
-- BBQ
-- Beach
-- Market
-- Stanley
 ---
 
 Our lazy mornings continue, so we left the hotel this morning a little later than planned with the intention of going back to Stanley for the markets and the beach. On arrival in Stanley we got stuck into the markets picking up the last of our trinkets/pictures etc. We then went to the local supermarket to pick up the supplies needed for a BBQ on the beach for an early birthday party. It was then time to get to the beach :).

@@ -8,11 +8,6 @@ categories:
 - China
 - Yangtze
 - China-2009
-tags:
-- City of Ghosts
-- Cruise
-- Dam
-- Yangtze
 ---
 
 Well we are now in Shanghai after a wonderful cruise along the Yangtze river, so now that we have an internet connection, here's an update...

@@ -9,11 +9,6 @@ categories:
 - Beijing
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- Great Wall
-- Jinshangling
-- Ming Tombs
 ---
 
 Train arrived in Beijing at about 0715. Headed to KFC for breakfast then visited the Sacred Way and the Ming Tombs. Continued on to Jinshangling to the Great Wall.

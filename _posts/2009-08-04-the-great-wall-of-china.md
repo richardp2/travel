@@ -9,12 +9,6 @@ categories:
 - Beijing
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- Great Wall
-- Hiking
-- Jinshangling
-- Simitai
 ---
 
 Woke up to a heavy dew, so sleeping bags a little damp. Packed up our kit and by 0630 we were on our way to Simitai, 30 watchtowers (6 miles) along the wall. Incredible day, amazing views. Everything we imagined.

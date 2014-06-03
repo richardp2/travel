@@ -8,15 +8,6 @@ categories:
 - Morocco
 - Marrakech
 - Honeymoon-2010
-tags:
-- Djemaa El-Fna
-- Market
-- Marrakech
-- Medina
-- Morocco
-- Our Honeymoon 2010
-- Riu Tikida Palmeraie
-- Souks
 ---
 
 [![The Souks](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAxMC8wNDEyLTA0MTkgT3VyIEhvbmV5bW9vbi8wNDE0IFNvdWtzIGFuZCBUaGUgTWVkaW5hLypJTUdfNjkyOC5qcGcqKmltYWdlKio3OTQwYWM4NzFjMjI0NDdhZDZmOTgyYTYzZDg4MDZiMgamp-300x200.jpg)](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAxMC8wNDEyLTA0MTkgT3VyIEhvbmV5bW9vbi8wNDE0IFNvdWtzIGFuZCBUaGUgTWVkaW5hLypJTUdfNjkyOC5qcGcqKmltYWdlKio3OTQwYWM4NzFjMjI0NDdhZDZmOTgyYTYzZDg4MDZiMgamp.jpg)Having thoroughly enjoyed our day yesterday, we spent the morning lounging by the pool again :-). This allowed us to prepare ourselves fully for the busy afternoon we had prepared. In the afternoon we headed into the Medina (the walled city) for a brief tour of the Ali Ben Youssef Medersa, which was once a very popular school for scholars from across the North African Arab region. The school was a beautiful place hidden deep within the labyrinth of streets in the North of the Medina, once we were 5 minutes from the bus, all but the guide were thoroughly lost!

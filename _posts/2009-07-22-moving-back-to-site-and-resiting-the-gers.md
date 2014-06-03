@@ -6,14 +6,9 @@ title: Moving back to site, and resiting the Gers
 wordpress_id: 107
 categories:
 - Mongolia
-- Töv
+- "Töv"
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- Flooding
-- Gers
-- Zuunmod
 ---
 
 Having had a good nights sleep in proper beds at the shelter, we all felt a little more refreshed. A scouting party was sent back to site to assess the damage so we headed out into Zuunmod to see what was about. It turns out, not a whole lot. It was interesting to see that a lot of the shops appeared to be operating out of people's front rooms.

@@ -8,18 +8,6 @@ categories:
 - Morocco
 - Marrakech
 - Honeymoon-2010
-tags:
-- Ben Youssef Mosque
-- Calesh
-- Djemaa El-Fna
-- Garden
-- Jardin Majorelle
-- Koutoubia Mosque
-- Marrakech
-- Medina
-- Morocco
-- Mosque
-- Souks
 ---
 
 [![Minaret of La Koutoubia Mosque](http://travel.perry-online.me.uk/files/2010/04/IMG_7066-200x300.jpg)](http://travel.perry-online.me.uk/2010/04/17/the-old-city/img_7066/)Another chilled out day today, although this time we chilled out in the Medina (the old city). We caught the second shuttle bus down into the city and were dropped off just outside the magnificent Koutoubia Mosque. From here we hopped onto a Calesh (horse and cart) for a trip to the Jardin Marjorelle, which is a memorial garden for Yves Saint Laurent. The gardens were absolutely beautiful, and incredibly colourful with brightly painted walls, pots and walkways everywhere. We both decided this was a great place to play with the new lens I bought just before coming out (a Canon 50mm f/1.4 prime). After a quick lesson in the basics, Rosie even played with the camera a little. It was a lot of fun.

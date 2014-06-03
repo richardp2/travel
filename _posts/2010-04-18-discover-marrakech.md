@@ -8,14 +8,6 @@ categories:
 - Morocco
 - Marrakech
 - Honeymoon-2010
-tags:
-- Bahia Palace
-- Djemaa El-Fna
-- Marrakech
-- Medina
-- Menara Gardens
-- Morocco
-- Saadian Tombs
 ---
 
 [![Saadian Tombs](http://travel.perry-online.me.uk/files/2010/04/img_7318-150x150.jpg)](http://travel.perry-online.me.uk/2010/04/18/discover-marrakech/img_7318/)It was our final full day in Marrakech today and we were booked on another full day excursion. When the bus arrived, we soon realised that we were the only two people from the hotel booked on the Discover Marrakech tour for the day so we were quite looking forward to it. After a few issues getting hold of a couple from another hotel we finally ended up at the Saadian Tombs with only one other couple. Almost our own personal tour :-). <!-- more -->

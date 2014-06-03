@@ -2,21 +2,12 @@
 comments: true
 date: 2009-08-25 01:22:48+00:00
 layout: post
-title: Shanghai ... Under Construction
+title: "Shanghai ... Under Construction"
 wordpress_id: 270
 categories:
 - China
 - Shanghai
 - China-2009
-tags:
-- Buddhist
-- Jade Buddha Temple
-- Jinmao Tower
-- Maglev
-- Oriental Pearl TV Tower
-- Park
-- Pudong
-- Yu Yuan Park
 ---
 
 [](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAwOS8yMDA5LjA4LjA1IC0gMjAwOS4wOS4xMSBUb3VyIG9mIENoaW5hLzIwMDkuMDguMjAgLSAyMDA5LjA4LjI2IFNoYW5naGFpLypJTUdfMzg5My5KUEcqKmltYWdlZm9ybSoqZDQ3NmMzZmExZTI3ZTA0MWViNDVmNDI1YjhmNGY1NDQ.jpg) 

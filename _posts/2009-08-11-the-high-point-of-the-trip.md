@@ -8,12 +8,6 @@ categories:
 - Tibet
 - Lhasa
 - China-2009
-tags:
-- 5190m
-- Buddhist
-- Ganden Monastery
-- Monastery
-- Namtso Lake
 ---
 
 Yesterday we were taken on a short tour of the countryside of Tibet finishing at Namtso Lake - the highest lake in the world (4718m). The 8 hour drive took us through some very dramatic scenery, with the Himalaya's above us and numerous rivers snaking round us. The route to the lake took us over a mountain pass at a height of 5190m, a full 1490m higher than Lhasa (Yes, that is more than the height of Ben Nevis). That was the highest point we will reach during our stay here in China!

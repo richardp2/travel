@@ -8,12 +8,6 @@ categories:
 - Morocco
 - Marrakech
 - Honeymoon-2010
-tags:
-- Atlas Mountains
-- Marrakech
-- Morocco
-- Mountains
-- Our Honeymoon 2010
 ---
 
 [](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAxMC8wNDEyLTA0MTkgT3VyIEhvbmV5bW9vbi8wNDE1IFRoZSBBdGxhcyBNb3VudGFpbnMvKklNR182OTQ2LmpwZyoqaW1hZ2UqKjg1NmI5Y2E2ZTEzMzRhYTA3NzUyZWNhMDEyNjYyYjUzamp.jpg)We had our first full day excursion today, and this was out to visit the High Atlas Mountains outside of Marrakech. The journey began with a bit of musical 4x4's as we were moved from one 4x4 to another for no apparent reason before finally getting going for a rendevous with a number of other 4x4's from different hotels. Thankfully there was no more switching around for the rest of the day. A short while after we set off we stopped again for an introduction to the excursion and the Atlas Mountains.

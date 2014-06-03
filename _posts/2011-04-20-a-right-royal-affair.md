@@ -6,7 +6,7 @@ title: A Right Royal Affair
 wordpress_id: 855
 categories:
 - Vietnam
-- Huế
+- "Huế"
 - Vietnam-2011
 flickimg: 14280578626
 ---

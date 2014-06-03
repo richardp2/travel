@@ -6,16 +6,12 @@ title: Picturesque Globalisation
 wordpress_id: 309
 categories:
 - China
-- Guilin
-- China-2009
-tags:
-- Cruise
-- Li River
 - Yangshuo
+- China-2009
 ---
 
 
-This morning we began the last leg of our tour of mainland China. This involved a boat trip down the Li River to see the stunning scenery of Guilin in the Guangxi province, our whole reason for coming to this part of China. We had a 40 minute drive to the docks for our 4 hour trip. We boarded the air-conditioned boat and headed off. Guilin is noted for it's oddly shaped mountains, and it's traditional fishing methods. <!-- more -->The fisherman train the local cormorant population to do their fishing for them. It seems to be a fairly good, symbiotic relationship, except for the fact the bird is at a bit of a disadvantage. The fishermen tie rope around the necks of the birds to prevent them swallowing the larger fish they catch, but allowing them to keep the small fish. The cormorants then catch fish in their usual manner, but if the fish are too big to swallow, they are dropped into the fishermans basket. Ingenious really, if a bit cruel for my liking.
+This morning we began the last leg of our tour of mainland China. This involved a boat trip down the Li River to see the stunning scenery of Guilin in the Guangxi province, our whole reason for coming to this part of China. We had a 40 minute drive to the docks for our 4 hour trip. We boarded the air-conditioned boat and headed off. Guilin is noted for it's oddly shaped mountains, and it's traditional fishing methods. The fisherman train the local cormorant population to do their fishing for them. It seems to be a fairly good, symbiotic relationship, except for the fact the bird is at a bit of a disadvantage. The fishermen tie rope around the necks of the birds to prevent them swallowing the larger fish they catch, but allowing them to keep the small fish. The cormorants then catch fish in their usual manner, but if the fish are too big to swallow, they are dropped into the fishermans basket. Ingenious really, if a bit cruel for my liking.
 
 
 

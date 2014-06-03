@@ -8,10 +8,6 @@ categories:
 - China
 - Hong-Kong
 - China-2009
-tags:
-- Birthday
-- Disney
-- Disneyland
 ---
 
 It's my birthday today so we took the opportunity to go to Disneyland!!! Neither Rosie nor I have been to Disneyland before so it seemed like the right thing to do for my 25th birthday. We got up relatively early, checked the MTR maps and got going. We were at the park by 1030. At the entrance, there was mention that it was my birthday (Mark aiming for at least one cheaper ticket), we were told to head to the City Hall for a badge and stickers once inside. We did, then went for breakfast.

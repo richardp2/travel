@@ -8,11 +8,6 @@ categories:
 - China
 - Chengdu
 - China-2009
-tags:
-- Park
-- Renmin Park
-- Tea
-- Tianfu Square
 ---
 
 So we have come to our last day in Chengdu. We packed our kit this morning and left it with the Concierge of the hotel for the day. We then headed out into the world to explore Chengdu. It seems to be a very organised city as all shops of the same type always seem to be on the same road. For example, on our way to the Tianfu Square, every shop we passed was a mobile phone shop, with a few food stops on route. Tianfu Square is just another big square like any other in China, with a big statue of Chairman Mao.

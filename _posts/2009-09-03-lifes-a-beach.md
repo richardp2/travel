@@ -8,10 +8,6 @@ categories:
 - China
 - Hong-Kong
 - China-2009
-tags:
-- Beach
-- Market
-- Stanley
 ---
 
 [![Stanley Beach from the rocks](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAwOS8yMDA5LjA4LjA1IC0gMjAwOS4wOS4xMSBUb3VyIG9mIENoaW5hLzIwMDkuMDguMzEgLSAyMDA5LjA5LjExIEhvbmcgS29uZy8qSU1HXzQ2NTIuSlBHKippbWFnZSoqZjUzOGJkNmFkMmFmMjdhNmRkOTNiYjM4OTMwNTc3ZDYamp-300x199.jpg)](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAwOS8yMDA5LjA4LjA1IC0gMjAwOS4wOS4xMSBUb3VyIG9mIENoaW5hLzIwMDkuMDguMzEgLSAyMDA5LjA5LjExIEhvbmcgS29uZy8qSU1HXzQ2NTIuSlBHKippbWFnZSoqZjUzOGJkNmFkMmFmMjdhNmRkOTNiYjM4OTMwNTc3ZDYamp.jpg)

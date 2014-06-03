@@ -8,18 +8,6 @@ categories:
 - Iceland
 - Reykjavik
 - New-Year-2010-11
-tags:
-- Atlantic Rift
-- Geysers
-- Geysir
-- Golden Circle
-- Gullfoss
-- Haukadalur
-- Hvítá
-- Iceland
-- Reykjavik
-- Strokkur
-- Þingvellir
 ---
 
 Up early again this morning for our next tour, the Golden Circle. Rosie's starting to suffer a bit with the lack of any daylight before 10am, but still good. We boarded the bus and headed out. The first port of call was a local nursery to see how they cope with the lack of daylight hours when growing food, however, someone had forgotten to tell the owner so nobody was there, and due to it still being dark, we couldn't see much so we moved on. We had a toilet break on route to Gullfoss (the big waterfall) where we were able to visit a local Lutheran church. Inside the guide gave us a brief introduction, then serenaded us! Turns out he was a very impressive singer.<!-- more -->

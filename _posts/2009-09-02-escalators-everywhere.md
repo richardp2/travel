@@ -8,13 +8,6 @@ categories:
 - China
 - Hong-Kong
 - China-2009
-tags:
-- Aviary
-- Escalators
-- Garden
-- Mountains
-- The Peak
-- Trams
 ---
 
 This morning we decided it was time to visit Hong Kong island itself, so we jumped on the MTR to Admiralty station, picked up some breakfast and coffee and walked along the highlevel walkways to the Central area. This was where Rosie introduced me to Hong Kong's mass of escalators. The first thing we did was to join the hoards on the mid levels escalator. This is a series of escalators that take people who live in Mid Levels down to Central in the morning and back up in the evening. This travels 135m up the Peak along 800m of escalators, travelling down from 0600 to 1000 and up from 1030 to midnight.

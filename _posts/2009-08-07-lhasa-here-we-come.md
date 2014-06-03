@@ -8,9 +8,6 @@ categories:
 - Tibet
 - Lhasa
 - China-2009
-tags:
-- Lhasa
-- Tibet
 ---
 
 Had an early flight from Beijing to Lhasa this morning. Left the hotel just before 0400. After at the aiport very early because the hours taxi ride only lasted 30mins and left the hotel early.

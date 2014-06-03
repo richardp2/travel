@@ -8,12 +8,6 @@ categories:
 - China
 - Guilin
 - China-2009
-tags:
-- Cormorant Fishing
-- Elephant Trunk Hill
-- Park
-- Reed Flute Cave
-- Seven Star Park
 ---
 
 We were picked up this morning from our hotel in Yangshuo for the drive back to Guilin for a tour of the site's around the city. The drive took us first to the Elephant Trunk Hill park. At the confluence of the two rivers around Guilin, there is a rock formation that looks a little like an elephant with its trunk dipped in the water. This is the sole purpose of the park, but the local government have added some additional statues and landscaping to the area to try to justify the exorbitant entrance prices.<!-- more -->

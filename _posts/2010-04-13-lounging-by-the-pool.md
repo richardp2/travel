@@ -8,11 +8,6 @@ categories:
 - Morocco
 - Marrakech
 - Honeymoon-2010
-tags:
-- Marrakech
-- Morocco
-- Our Honeymoon 2010
-- Riu Tikida Palmeraie
 ---
 
 [![The Pool](http://travel.perry-online.me.uk/files/2010/04/the_pool-150x150.jpg)](http://travel.perry-online.me.uk/files/2010/04/the_pool.jpg)To kick start our "Package Holiday" Honeymoon we felt we should follow the traditional British holidaymakers way and lounge around by the pool. So we got out of bed late, caught breakfast just before close and headed to the pool with our suncream, water and books. As the holiday is All Inclusive we took advantage of the bar, pigged out on the buffet lunch, and followed suit with our evening meal as well.

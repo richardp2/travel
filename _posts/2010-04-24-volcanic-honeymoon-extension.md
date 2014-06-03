@@ -8,10 +8,6 @@ categories:
 - Morocco
 - Marrakech
 - Honeymoon-2010
-tags:
-- Marrakech
-- Morocco
-- Riu Tikida Palmeraie
 ---
 
 Apparently Thomson thought there was some kind volcanic ash over the UK so we ended up stuck at the Riu Tikida Palmeraie in Marrakech for an extra four days, all inclusive! It was such a tough time, but somebody had to suffer :-D. We were told on Sunday night that our flight the following day was definately cancelled so we chilled out!

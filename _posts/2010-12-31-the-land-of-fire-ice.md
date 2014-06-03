@@ -8,16 +8,6 @@ categories:
 - Iceland
 - Reykjavik
 - New-Year-2010-11
-tags:
-- Church
-- Hallgrimskirkja
-- Lake
-- Lutheran
-- Mountains
-- Reykjavik
-- Sea
-- Sunset
-- Tjörnin
 ---
 
 We took the late flight into Reykjavik arriving shortly after midnight on New Year's Eve, so our first day in Iceland started a little late. We got up for breakfast at about 0930 and the sky was still pitch black! A very weird situation indeed. The plan for today was to visit Reykjavik itself, then head out on the Northern Lights Tour/Hunt this evening so upon finishing breakfast, we got sorted and headed out into the city. The sun was starting to creep up over the horizon giving us approximately 4 ½ hours until it sets again. Bizarre. On the plus side, Reykjavik is quite small so 4 ½ hours should be plenty.<!-- more -->

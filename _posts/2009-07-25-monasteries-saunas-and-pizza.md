@@ -9,14 +9,6 @@ categories:
 - Ulaanbaatar
 - China-2009
 - Three-Nations
-tags:
-- 3 Nations
-- Buddhist
-- Gandantegchinlen Monastery
-- Monastery
-- National Musuem
-- Sauna
-- Ulaanbaatar
 ---
 
 Another trip to Ulaanbaatar today, but this time it wasthe whole expedition group together. This was meant to be a day to mark the end of the Aravt based programme, but due to the day lost in the floods we still have one more day to go. The day began at Gandantegchinlen Buddhist Monastery. We were due to be meeting up with the Venerable Gankhuyag Lama (who we spent 2 weeks with at the World Jamboree in 2007), but it turns out he was very ill. Instead we walked around the monastery to see it in action. In one of the halls there was a large group of monks participating in their morning chanting, which is a beautiful, yet haunting sound, whilst the very young monks were fighting in the back row. We also went to look at the 26.5 metre high statue of Chenrezig, the Buddha of Compassion, that was housed in the main temple building.
