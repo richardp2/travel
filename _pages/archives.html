@@ -5,6 +5,8 @@ title: Archives
 permalink: /archives/
 ---
 
+You can also view our archives [by place](/archives/where/) if you prefer :smile:
+
 <ul id='archive'>{% for post in site.posts %}{% unless post.next %}
   <h3 class='year'>{{ post.date | date: '%Y' }}</h3>{% else %}{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}{% if year != nyear %}
   <h3 class='year'>{{ post.date | date: '%Y' }}</h3>{% endif %}{% endunless %}{% unless post.next %}
