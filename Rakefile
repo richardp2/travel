@@ -10,7 +10,7 @@ BITBUCKET_REPO = "richardp2/travel-blog-website"
 
 
 desc "Build and preview the site"
-task :preview => [:build, :clean] do
+task :preview => [:grunt, :clean] do
   puts "## Building a preview of the site"
   pids = [
     spawn("jekyll serve -w --drafts")
@@ -27,8 +27,8 @@ task :preview => [:build, :clean] do
   end
 end
 
-desc 'Concatenate & minify the css & js files for the site'
-task :build do
+desc 'Runs grunt'
+task :grunt do
   puts "## Concatenating & minifying/uglifying css & js files"
   system "grunt"
 end
@@ -57,40 +57,52 @@ task :push do
 end
   
 
-desc "Generate blog files"
-task :generate => [:clean] do
+desc "Build the site ready for deployment"
+task :build => [:grunt, :clean] do
+  puts "## Generate the Jekyll site files"
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
     "destination" => "_site"
   })).process
+  puts "## Build complete"
 end
 
 
 desc "Generate and deploy blog to master"
-task :deploy, [:message] => [:build, :commit, :push, :generate] do |t, args|
+task :deploy, [:message] => [:commit, :push, :build] do |t, args|
   args.with_defaults(:message => "Site updated at #{Time.now.utc}")
   
+  puts "## Push built site to master branch"  
   Dir.mktmpdir do |tmp|
+    # Clone the master branch into a temporary directory"
     system "git clone git@github.com:#{GITHUB_REPONAME}.git -b gh-pages #{tmp}"
+    
+    # Delete all files in the temporary directory to ensure deleted file are removed"
+    rm_rf "#{tmp}/*"
+    
+    # Copy the build site to the temporary directory
     cp_r "_site/.", tmp
     
+    # Store the current working directory for latere
     pwd = Dir.pwd
+    
+    # Change to the temporary directory
     Dir.chdir tmp
     
+    # Add unstaged files, commit them, add the additional repository at Bitbucket and push to origin
     system "git add -A"
     system "git commit -m #{args[:message].inspect}"
     system "git remote set-url --add origin git@bitbucket.org:#{BITBUCKET_REPO}.git"
     system "git push origin gh-pages"
     
+    # Change back to the previous working directory
     Dir.chdir pwd
   end
   
   puts "\nSite Published and Deployed to GitHub"
   puts "\nHave a nice day :-)"
 end
-  
-  
-  
+
 # The following task was adapted from one written by Shane Burkhart  
 # Source: http://www.shaneburkhart.me/2013/12/07/rake-task-to-publish-drafts-in-jekyll.html   
 desc "Publish draft posts and update the date field"  
