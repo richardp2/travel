@@ -6,6 +6,7 @@ authors:
 - rosie
 url: http://travel.perry-online.me.uk
 email: travel@perry-online.me.uk
+baseurl: /travel
 
 markdown: kramdown
 kramdown:
