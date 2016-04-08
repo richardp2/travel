@@ -6,6 +6,8 @@ gem 'titleize'
 gem 'jekyll-oembed', :require => 'jekyll_oembed'
 gem 'flickraw'
 gem 'emoji_for_jekyll'
+gem 'execjs'
+gem 'therubyracer', :platforms => :ruby
 #gem 'jekyll-paginate'
 #gem 'jekyll-sitemap'
 #gem 'jekyll-gist'
