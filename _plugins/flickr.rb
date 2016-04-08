@@ -18,10 +18,11 @@ require 'shellwords'
 module Jekyll
 
   class FlickrPhotosetTag < Liquid::Tag
+    include Jekyll::LiquidExtensions
 
     def initialize(tag_name, markup, tokens)
       super
-      params = Shellwords.shellwords markup
+      params = Shellwords.split(markup)
 
       @photoset       = params[0]
       @class          = params[1] || "gallery"
@@ -34,7 +35,7 @@ module Jekyll
     def render(context)
       # hack to convert a variable into an actual flickr set id
       if @photoset =~ /([\w]+\.[\w]+)/i
-        @photoset = Liquid::Template.parse('{{ '+@photoset+' }}').render context
+        @photoset = lookup_variable(context, @photoset)
       end
 
       flickrConfig = context.registers[:site].config["flickr"]
@@ -102,15 +103,15 @@ output += "</div>\n"
     def generate_photo_data(photoset, flickrConfig)
       returnSet = Array.new
 
-      FlickRaw.api_key       = flickrConfig['api_key']
-      FlickRaw.shared_secret = flickrConfig['shared_secret']
-      flickr.access_token    = flickrConfig['access_token']
-      flickr.access_secret   = flickrConfig['access_secret']
+      FlickRaw.api_key       = ENV['FLICKR_API_KEY'] || flickrConfig['api_key']
+      FlickRaw.shared_secret = ENV['FLICKR_SHARED_SECRET'] || flickrConfig['shared_secret']
+      flickr.access_token    = ENV['FLICKR_ACCESS_TOKEN'] || flickrConfig['access_token']
+      flickr.access_secret   = ENV['FLICKR_ACCESS_SECRET'] || flickrConfig['access_secret']
 
       begin
         flickr.test.login
       rescue Exception => e
-        raise "Bad token: #{flickrConfig['access_token']}"
+        raise "Unable to login, please check documentation for correctly configuring Environment Variables, or _config.yaml."
       end
 
       begin
@@ -194,11 +195,10 @@ module Jekyll
  
     def initialize(tag_name, markup, tokens)
        super
-       params = Shellwords.shellwords markup
-      
-       @id      = params[0]
-       @classes = params[1] || "alignleft"
-       @size    = params[2] || "q"
+       @markup = markup
+       @id      = markup.split(' ')[0]
+       @classes = markup.split(' ')[1] || "alignleft"
+       @size    = markup.split(' ')[2] || "q"
     end
    
     def render(context)
@@ -209,10 +209,10 @@ module Jekyll
       end
    
       flickrConfig = context.registers[:site].config["flickr"]
-      FlickRaw.api_key        = flickrConfig['api_key']
-      FlickRaw.shared_secret  = flickrConfig['shared_secret']
-      flickr.access_token     = flickrConfig['access_token']
-      flickr.access_secret    = flickrConfig['access_secret']
+      FlickRaw.api_key        = ENV['FLICKR_API_KEY'] || flickrConfig['api_key']
+      FlickRaw.shared_secret  = ENV['FLICKR_SHARED_SECRET'] || flickrConfig['shared_secret']
+      flickr.access_token     = ENV['FLICKR_ACCESS_TOKEN'] || flickrConfig['access_token']
+      flickr.access_secret    = ENV['FLICKR_ACCESS_SECRET'] || flickrConfig['access_secret']
    
       info = flickr.photos.getInfo(:photo_id => @id)
    
