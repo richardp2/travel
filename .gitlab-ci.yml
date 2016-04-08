@@ -3,7 +3,6 @@ image: ruby:2.3
 pages:
   stage: deploy
   script:
-  - npm install
   - bundle install
   - grunt
   - bundle exec jekyll build -d public
