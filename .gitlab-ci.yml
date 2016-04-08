@@ -6,7 +6,7 @@ pages:
   - gem uninstall -a -q jekyll
   - gem uninstall -a -q github-pages
   - bundle install
-  - bundle exec jekyll build -d public
+  - bundle exec jekyll build -d public --baseurl /travel
   artifacts:
     paths:
     - public
