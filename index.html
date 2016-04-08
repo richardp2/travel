@@ -1,0 +1,16 @@
+---
+layout: default
+title: Home
+comments: false
+---
+
+        {% for post in paginator.posts %}
+          <article itemscope itemtype='http://schema.org/BlogPosting' class='post summary{% if post.layout != 'post' %} format-{{ post.layout }}{% endif %}'>
+              {% include partials/summary.html %}
+          </article>
+
+          <hr />
+
+        {% endfor %}
+        
+        {% include paging.html %}
