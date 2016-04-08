@@ -9,8 +9,8 @@ email: travel@perry-online.me.uk
 
 markdown: kramdown
 kramdown:
-  use_coderay: true
-pygments: true
+  enable_coderay: true
+highlighter: pygments
 exclude: 
 - 'changes'
 - 'Gemfile'

@@ -9,7 +9,7 @@ categories:
 - Beijing
 - China-2009
 - Three-Nations
-flickimg: 14095194459
+image: http://farm3.static.flickr.com/2897/14095194459_3166872791_q.jpg
 ---
 
 Dinner was also very nice, we had steamed chicken, black mushrooms and Jasmin rice with an awesome
@@ -34,4 +34,29 @@ After a short siesta, Mark, Rosie and I headed out for a wander around Beijing t
 wall of the Forbidden City, and to get some grub. We found a small place just across the street
 from the City that served some amazing Sweet and Sour Pork with mediocre Peking Duck.
 
-{% flickr_photoset 72157644458071718 %}
+<div class="flickr gallery">
+<span>
+<a title="Dinner on our first day" href="https://farm6.staticflickr.com/5504/14278525861_cbd9557768_b.jpg" class="image cboxElement" rel="gallery0"><img src="https://farm6.staticflickr.com/5504/14278525861_cbd9557768_q.jpg" alt="Dinner on our first day" data-pin-nopin="true"></a>
+<a title="View on Flickr" href="https://www.flickr.com/photos/richard-perry/14278525861/" class="flickrlink"> </a>
+</span>
+<span>
+<a title="Chicken's Feet Anyone?" href="https://farm4.staticflickr.com/3786/14281388694_0c15a3a961_b.jpg" class="image cboxElement" rel="gallery0"><img src="https://farm4.staticflickr.com/3786/14281388694_0c15a3a961_q.jpg" alt="Chicken's Feet Anyone?" data-pin-nopin="true"></a>
+<a title="View on Flickr" href="https://www.flickr.com/photos/richard-perry/14281388694/" class="flickrlink"> </a>
+</span>
+<span>
+<a title="Cool Bridgey Thing" href="https://farm4.staticflickr.com/3716/14258744166_67dbd5b935_b.jpg" class="image cboxElement" rel="gallery0"><img src="https://farm4.staticflickr.com/3716/14258744166_67dbd5b935_q.jpg" alt="Cool Bridgey Thing" data-pin-nopin="true"></a>
+<a title="View on Flickr" href="https://www.flickr.com/photos/richard-perry/14258744166/" class="flickrlink"> </a>
+</span>
+<span>
+<a title="Our Hotel" href="https://farm4.staticflickr.com/3786/14281857445_aa48c722cb_b.jpg" class="image cboxElement" rel="gallery0"><img src="https://farm4.staticflickr.com/3786/14281857445_aa48c722cb_q.jpg" alt="Our Hotel" data-pin-nopin="true"></a>
+<a title="View on Flickr" href="https://www.flickr.com/photos/richard-perry/14281857445/" class="flickrlink"> </a>
+</span>
+<span>
+<a title="Entrance to Forbidden City" href="https://farm3.staticflickr.com/2897/14095194459_3166872791_b.jpg" class="image cboxElement" rel="gallery0"><img src="https://farm3.staticflickr.com/2897/14095194459_3166872791_q.jpg" alt="Entrance to Forbidden City" data-pin-nopin="true"></a>
+<a title="View on Flickr" href="https://www.flickr.com/photos/richard-perry/14095194459/" class="flickrlink"> </a>
+</span>
+<span>
+<a title="The Forbidden City" href="https://farm6.staticflickr.com/5077/14302045013_fbe40b4b30_b.jpg" class="image cboxElement" rel="gallery0"><img src="https://farm6.staticflickr.com/5077/14302045013_fbe40b4b30_q.jpg" alt="The Forbidden City" data-pin-nopin="true"></a>
+<a title="View on Flickr" href="https://www.flickr.com/photos/richard-perry/14302045013/" class="flickrlink"> </a>
+</span>
+</div>

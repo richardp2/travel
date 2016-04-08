@@ -194,11 +194,11 @@ module Jekyll
   class FlickrImageTag < Liquid::Tag
  
     def initialize(tag_name, markup, tokens)
-       super
-       @markup = markup
-       @id      = markup.split(' ')[0]
-       @classes = markup.split(' ')[1] || "alignleft"
-       @size    = markup.split(' ')[2] || "q"
+      super
+      @markup = markup
+      @id      = markup.split(' ')[0]
+      @classes = markup.split(' ')[1] || "alignleft"
+      @size    = markup.split(' ')[2] || "q"
     end
    
     def render(context)
