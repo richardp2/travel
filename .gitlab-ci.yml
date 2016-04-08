@@ -4,7 +4,6 @@ pages:
   stage: deploy
   script:
   - bundle install
-  - grunt
   - bundle exec jekyll build -d public
   artifacts:
     paths:
