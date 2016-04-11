@@ -261,26 +261,26 @@ class FlickrPageGenerator < Generator
         file_photosets = Dir.glob(File.join(cache_dir, '*.yml'))
         file_photosets.each_with_index do |file_photoset, pos|
             photoset = Photoset.new(site, file_photoset)
-            if site.config['flickr']['generate_photosets'].include? photoset.title
-                # generate photo pages if requested
-                if site.config['flickr']['generate_posts']
-                    file_photos = Dir.glob(File.join(photoset.cache_dir, '*.yml'))
-                    file_photos.each do |file_photo, pos|
-                        photo = Photo.new(site, photoset, file_photo, pos)
-                        page_photo = PhotoPost.new(site, site.source, '', photo)
+            # if site.config['flickr']['generate_photosets'].include? photoset.title
+            #     # generate photo pages if requested
+            #     if site.config['flickr']['generate_posts']
+            #         file_photos = Dir.glob(File.join(photoset.cache_dir, '*.yml'))
+            #         file_photos.each do |file_photo, pos|
+            #             photo = Photo.new(site, photoset, file_photo, pos)
+            #             page_photo = PhotoPost.new(site, site.source, '', photo)
 
-                        # posts need to be in a _posts directory, but this means Jekyll has already
-                        # read in photo posts from any previous run... so for each photo, update
-                        # its associated post if it already exists, otherwise create a new post
-                        site.posts.each_with_index do |post, pos|
-                            if post.data['slug'] == photo.slug
-                                site.posts.delete_at(pos)
-                            end
-                        end
-                        site.posts << page_photo
-                    end
-                end
-            end
+            #             # posts need to be in a _posts directory, but this means Jekyll has already
+            #             # read in photo posts from any previous run... so for each photo, update
+            #             # its associated post if it already exists, otherwise create a new post
+            #             site.posts.each_with_index do |post, pos|
+            #                 if post.data['slug'] == photo.slug
+            #                     site.posts.delete_at(pos)
+            #                 end
+            #             end
+            #             site.posts << page_photo
+            #         end
+            #     end
+            # end
         end
         
         # re-sort posts by date
