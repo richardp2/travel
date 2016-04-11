@@ -137,24 +137,24 @@ class Photo
         self.date = ''
         self.description = ''
         self.tags = Array.new
-        self.url_full = ''
-        self.url_thumb = ''
+        self.url_full = "http://farm#{flickr_photo.farm}.static.flickr.com/#{flickr_photo.server}/#{flickr_photo.id}_#{flickr_photo.secret}_b.jpg"
+        self.url_thumb = "http://farm#{flickr_photo.farm}.static.flickr.com/#{flickr_photo.server}/#{flickr_photo.id}_#{flickr_photo.secret}_q.jpg"
         self.cache_file = File.join(photoset.cache_dir, "#{self.id}.yml")
         self.position = pos
         
         # sizes request
-        flickr_sizes = flickr.photos.getSizes(:photo_id => self.id)
-        if flickr_sizes
-            size_full = flickr_sizes.find {|s| s.label == site.config['flickr']['size_full']}
-            if size_full
-                self.url_full = size_full.source
-            end
+        # flickr_sizes = flickr.photos.getSizes(:photo_id => self.id)
+        # if flickr_sizes
+        #     size_full = flickr_sizes.find {|s| s.label == site.config['flickr']['size_full']}
+        #     if size_full
+        #         self.url_full = size_full.source
+        #     end
             
-            size_thumb = flickr_sizes.find {|s| s.label == site.config['flickr']['size_thumb']}
-            if size_thumb
-                self.url_thumb = size_thumb.source
-            end
-        end
+        #     size_thumb = flickr_sizes.find {|s| s.label == site.config['flickr']['size_thumb']}
+        #     if size_thumb
+        #         self.url_thumb = size_thumb.source
+        #     end
+        # end
         
         # other info request
         flickr_info = flickr.photos.getInfo(:photo_id => self.id)
