@@ -44,5 +44,5 @@ flickr:
   access_secret:   1625dbdd3cf26db6
 
   use_cache:       true
-  cache_dir:       ./_cache/flickr
+  cache_dir:       _cache/flickr
 
