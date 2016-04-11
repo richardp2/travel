@@ -3,6 +3,7 @@ image: ruby:2.3
 pages:
   stage: deploy
   script:
+  - mkdir -p ./_cache/flickr
   - bundle install
   - bundle exec jekyll build -d public
   artifacts:
