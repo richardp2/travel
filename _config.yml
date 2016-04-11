@@ -37,6 +37,7 @@ category_dir: /
 
 flickr:
   enabled:         yes
+  screen_name:     Richard Perry
   cache_dir:       ./_cache/flickr
   api_key:         4389a0eb79c41ca17e149830c22fc7c2
   shared_secret:   ef41108edae962b0
