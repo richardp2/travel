@@ -2,25 +2,30 @@ name: Rosie & Jim's Travel Blog
 description: A blog of all our travels
 owner: rosiejim
 authors:
-- richard
-- rosie
+  - richard
+  - rosie
 url: http://travel.perry-online.me.uk
 email: travel@perry-online.me.uk
 
-markdown: kramdown
-kramdown:
-  enable_coderay: true
-highlighter: pygments
 exclude: 
-- 'changes'
-- 'Gemfile'
-- 'Gemfile.lock'
-- 'Gruntfile.js'
-- 'node_modules'
-- 'package.json'
-- 'Rakefile'
-- 'README.md'
-gems: ["emoji_for_jekyll"]
+  - 'changes'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'Gruntfile.js'
+  - 'node_modules'
+  - 'package.json'
+  - 'Rakefile'
+  - 'README.md'
+gems: 
+  - jemoji
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
 
 encoding: utf-8
 
@@ -42,7 +47,5 @@ flickr:
   shared_secret:   ef41108edae962b0
   access_token:    72157641557984045-92a5dbebf3e01418
   access_secret:   1625dbdd3cf26db6
-
-  use_cache:       true
   cache_dir:       _cache/flickr
 
