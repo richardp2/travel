@@ -7,7 +7,7 @@ wordpress_id: 40
 categories:
 - China-2009
 - Three-Nations
-flickimg: 14258613876
+image: http://farm6.static.flickr.com/5515/14258613876_c53c6fe8a0_q.jpg
 ---
 
 Having arrived at Rachel's house last night, we got up this morning to a little last minute

@@ -5,7 +5,7 @@
   {% when 'image' %}
     {% if post.image %}<img src='{{ post.image }}' title='{{ post.title }}' alt='{{ post.title }}' class='aligncentre' />{% endif %}
     {% if post.flickimg %}{% flickr_image post.flickimg aligncentre d %}{% endif %}
-    {{ post.content }}
+    {{ post.content | xml_escape }}
   {% when 'video' %}
     {% oembed https://www.youtube.com/watch?v={{post.video}}&rel=0 width=560 height=315 %}
     {{ post.content }}   

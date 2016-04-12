@@ -9,7 +9,7 @@ categories:
 - Töv
 - China-2009
 - Three-Nations
-flickimg: 14095596000
+image: http://farm4.static.flickr.com/3732/14095596000_8de1eeca0e_q.jpg
 ---
 
 Our first full day in Mongolia took us to visit a nomadic family to spend the day helping with, and

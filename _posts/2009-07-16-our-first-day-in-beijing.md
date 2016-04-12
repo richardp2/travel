@@ -9,7 +9,7 @@ categories:
 - Beijing
 - China-2009
 - Three-Nations
-flickimg: 14095194459
+image: http://farm3.static.flickr.com/2897/14095194459_3166872791_q.jpg
 ---
 
 Dinner was also very nice, we had steamed chicken, black mushrooms and Jasmin rice with an awesome

@@ -20,7 +20,7 @@ headed back to the hotel to dry off.
 We chose to have lunch in a Western Style restaurant, where Rosie and Mark ate burgers, chips and
 sandwiches and I had Kuangpau Chicken, but for some reason I was given a fork and a spoon. After a
 little confusion over the lack of chopsticks we tucked in. Although it was all very nice, Western
-Style also seems to mean Western prices! :( Nevermind, we won't be doing that again.
+Style also seems to mean Western prices! :disappointed: Nevermind, we won't be doing that again.
 
 We were then all taken to the Silk Road Markets for a few (5) hours to do a bit of shopping. It turns
 out that Chinese market stall holders believe that the louder they shout, and the more forceful they
