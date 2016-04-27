@@ -4,11 +4,12 @@ date: 2011-04-20 15:59:00+00:00
 layout: post
 title: A Right Royal Affair
 wordpress_id: 855
-categories:
-- Vietnam
-- Huế
-- Vietnam-2011
-flickimg: 14280578626
+tags:
+  - Vietnam
+  - Huế
+redirect_from:
+  - /vietnam/huế/vietnam-2011/a-right-royal-affair/
+image: https://c3.staticflickr.com/6/5280/14280578626_0b43c17ef5_q.jpg
 ---
 
 {% flickr_image 14303715605 %}

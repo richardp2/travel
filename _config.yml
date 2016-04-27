@@ -40,6 +40,40 @@ thumbs: /assets/images/thumbs
 
 category_dir: /
 
+# Location Config
+locations:
+  UK:
+    name: UK
+    link: /uk/
+  Cornwall:
+    name: Cornwall
+    link: /uk/cornwall/
+  North-East:
+    name: North East England
+    link: /uk/north-east/
+  Vietnam: 
+    name: Vietnam
+    link: /vietnam/
+  Hanoi:
+    name: Hanoi
+    link: /vietnam/hanoi/
+  Ha-Long-Bay:
+    name: Ha Long Bay
+    link: /vietnam/ha-long-bay/
+  Huế:
+    name: Huế
+    link: /vietnam/huế/
+  Hội-An:
+    name: "Hội-An"
+    link: /vietnam/hội-an/
+  Iceland:
+    name: Iceland
+    link: /iceland/
+  Reykjavik:
+    name: Reykjavik
+    link: /iceland/reykjavik/
+  
+
 flickr:
   enabled:         yes
   cache_dir:       _cache/flickr

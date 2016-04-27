@@ -5,11 +5,12 @@ date: 2012-04-10 20:00:59+00:00
 layout: post
 title: The Eden Project
 wordpress_id: 997
-categories:
-- UK
-- Cornwall
-- Cornwall-2012
-flickimg: 14166809126
+image: https://c7.staticflickr.com/8/7407/14166809126_f69f372dd9_q.jpg
+tags:
+  - UK
+  - Cornwall
+redirect_from:
+  - /uk/cornwall/cornwall-2012/edenproject/
 ---
 
 {% flickr_image 14189977295 alignright %}
