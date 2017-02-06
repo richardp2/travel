@@ -5,7 +5,7 @@ layout: post
 title: The Land of Fire & Ice
 wordpress_id: 709
 image: http://farm6.static.flickr.com/5209/5327886967_448fda6817_q.jpg
-tags:
+locations:
   - Iceland
   - Reykjavik
 redirect_from:

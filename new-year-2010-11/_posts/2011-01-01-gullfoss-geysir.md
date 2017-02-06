@@ -5,7 +5,7 @@ layout: post
 title: Gullfoss & Geysir
 wordpress_id: 727
 image: https://farm6.staticflickr.com/5047/5328499420_027afee150_q.jpg
-tags:
+locations:
   - Iceland
   - Reykjavik
 redirect_from:

@@ -5,7 +5,7 @@ layout: post
 title: The Blue Lagoon
 wordpress_id: 757
 image: //c6.staticflickr.com/2/1720/26608825581_3ea1971b4a_q.jpg
-tags:
+locations:
   - Iceland
   - Reykjavik
 redirect_from:

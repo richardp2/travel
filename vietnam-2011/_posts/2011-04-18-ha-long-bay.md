@@ -5,7 +5,7 @@ layout: post
 title: Ha Long Bay
 wordpress_id: 802
 image: https://c3.staticflickr.com/2/1640/26647295986_1a33dc3ab7_q.jpg
-tags:
+locations:
   - Vietnam
   - Ha-Long-Bay
 redirect_from:

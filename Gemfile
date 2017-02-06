@@ -1,13 +1,6 @@
 source 'https://rubygems.org'
-gem 'jekyll'
-# gem 'stringex'
-gem 'titleize'
-gem 'jekyll-oembed', :require => 'jekyll_oembed'
+
+gem 'jekyll-theme-perry'
 gem 'flickraw'
-gem 'jemoji'
-gem 'execjs'
-gem 'therubyracer', :platforms => :ruby
-gem 'jekyll-gist'
-gem 'jekyll-redirect-from'
 gem 'jekyll-paginate'
-gem 'jekyll-sitemap'
+gem 'jemoji'
