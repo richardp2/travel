@@ -5,7 +5,7 @@ layout: post
 title: Northern Lights Hunting
 wordpress_id: 731
 image: //c5.staticflickr.com/2/1455/26648488476_8db3a08edf_q.jpg
-tags:
+locations:
   - Iceland
   - Reykjavik
 redirect_from:

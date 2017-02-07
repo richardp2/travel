@@ -1,17 +1,17 @@
 changes
 Gemfile.lock
-_includes/css/grunt.css
-_includes/scripts/grunt.js
 _site
-_drafts
-node_modules
-_cache
-_gist_cache
 _site/
+_drafts
 _drafts/
-node_modules/
+_cache
 _cache/
+_gist_cache
 _gist_cache/
+.bundle
+.bundle/
+.sass-cache
+.sass-cache/
 
 # Windows image file caches
 Thumbs.db

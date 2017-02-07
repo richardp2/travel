@@ -5,7 +5,7 @@ layout: post
 title: A Very Long Journey
 wordpress_id: 787
 image: http://c4.staticflickr.com/2/1705/26673254115_a3b67a501d_q.jpg
-tags:
+locations:
   - Vietnam
   - Hanoi
 redirect_from:

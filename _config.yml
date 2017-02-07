@@ -1,84 +1,235 @@
-name: Rosie & Jim's Travel Blog
+######################################
+#                                    #
+#         Site Configuration         #
+#                                    #
+######################################
+
+# Site details
+title: Rosie & Jim's Travel Blog
 description: A blog of all our travels
-owner: rosiejim
+author: rosiejim
 authors:
   - richard
   - rosie
 url: https://travel.perry-online.me.uk
 email: travel@perry-online.me.uk
 
+# Where things are
+images: /assets/images
+thumbs: /assets/images/thumbs
+
+# Handling Reading
 exclude: 
   - 'changes'
   - 'Gemfile'
   - 'Gemfile.lock'
-  - 'Gruntfile.js'
-  - 'node_modules'
-  - 'package.json'
-  - 'Rakefile'
+  - 'LICENSE.md'
   - 'README.md'
+
 gems: 
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-archives
   - jekyll-paginate
-  - jekyll-gist
   - jekyll-redirect-from
-  - jekyll-sitemap
 
-sass:
+
+######################################
+#                                    #
+#        Theme Configuration         #
+#                                    #
+######################################
+
+# General Configuration
+theme: jekyll-theme-perry
+logo: /assets/images/logo.svg
+meta:             
+  copyright:
+    year: '2009'
+  powered-by: true
+  hosting:          
+    name: GitLab Pages
+    link: //pages.gitlab.io
+
+# Markdown Processors
+# sass:
   sass_dir: _sass
   style: compressed
 
-encoding: utf-8
+# Comments
+disqus:
+  shortname: rosiejimtravel
 
+# Outputting
 permalink: /:categories/:title/
-relative_permalinks: false
-
 paginate: 10
 paginate_path: "page/:num"
-  
-images: /assets/images
-thumbs: /assets/images/thumbs
+timezone: Europe/London
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false
 
-category_dir: /
+
+######################################
+#                                    #
+#        Plugin Configuration        #
+#                                    #
+######################################
+
+# Flickr Plugin
+flickr:
+  cache_dir: ./_cache
+  api_key: 4389a0eb79c41ca17e149830c22fc7c2
+  shared_secret: ef41108edae962b0
+  access_token: 72157641557984045-92a5dbebf3e01418
+  access_secret: 1625dbdd3cf26db6
+
+# Jekyll Archives Gem
+jekyll-archives:
+  enabled:
+    - year
+  layouts: archive
+  permalinks:
+    year: '/archives/:year/'
+
+# Jekyll SEO Tag Gem
+facebook:
+  app_id: 181763705182339
+  admins: 286603693
+
+twitter:
+  username: richard_p2
+
+social:
+  links:
+    - https://twitter.com/richard_p2
+    - https://www.facebook.com/richardpperry
+    - https://www.linkedin.com/in/rpperry
+    - https://plus.google.com/+RichardPerry1
+    - https://github.com/richardp2
+
+google:
+  analytics: UA-26085183-4
+
+webmaster_verifications:
+  google: kShm7KvCbKtxnGKHhDpje_9bPdemRwk2OLXtfjEBWEQ
+
+
+######################################
+#                                    #
+#      Additional Configuration      #
+#                                    #
+######################################
 
 # Location Config
 locations:
-  UK:
-    name: UK
-    link: /uk/
-  Cornwall:
-    name: Cornwall
-    link: /uk/cornwall/
-  North-East:
-    name: North East England
-    link: /uk/north-east/
-  Vietnam: 
-    name: Vietnam
-    link: /vietnam/
-  Hanoi:
-    name: Hanoi
-    link: /vietnam/hanoi/
-  Ha-Long-Bay:
-    name: Ha Long Bay
-    link: /vietnam/ha-long-bay/
-  Huế:
-    name: Huế
-    link: /vietnam/huế/
-  Hội-An:
-    name: "Hội-An"
-    link: /vietnam/hội-an/
+  China:
+    name: China
+    link: /china/
+  Beijing:
+    name: Beijing
+    link: /china/beijing/
+  Chengdu:
+    name: Chengdu
+    link: /china/chengdu/
+  Chongqing:
+    name: Chongqing
+    link: /china/chongqing/
+  Guilin:
+    name: Guilin
+    link: /china/guilin/
+  Hong-Kong:
+    name: Hong Kong
+    link: /china/hong-kong/
+  Macau:
+    name: Macau
+    link: /china/macau/
+  Shanghai:
+    name: Shanghai
+    link: /china/shanghai/
+  Xian:
+    name: Xi'an
+    link: /china/xian/
+  Yangshuo:
+    name: Yangshuo
+    link: /china/yangshuo/
+  Yangtze:
+    name: Yangtze
+    link: /china/yangtze/
   Iceland:
     name: Iceland
     link: /iceland/
   Reykjavik:
     name: Reykjavik
     link: /iceland/reykjavik/
-  
+  Morocco:
+    name: Morocco
+    link: /morocco/
+  Marrakech:
+    name: Marrakech
+    link: /morocco/marrakech/
+  Mongolia:
+    name: Mongolia
+    link: /mongolia/
+  Tov:
+    name: Töv
+    link: /mongolia/tov/
+  Ulaanbaatar:
+    name: Ulaanbaatar
+    link: /mongolia/ulaanbaatar/
+  Tibet:
+    name: Tibet
+    link: /tibet/
+  Lhasa:
+    name: Lhasa
+    link: /tibet/lhasa/
+  UK:
+    name: UK
+    link: /uk/
+  Cornwall:
+    name: Cornwall
+    link: /uk/cornwall/
+  NE:
+    name: North East England
+    link: /uk/north-east/
+  Vietnam: 
+    name: Vietnam
+    link: /vietnam/
+  Ha-Long-Bay:
+    name: Ha Long Bay
+    link: /vietnam/ha-long-bay/
+  Hanoi:
+    name: Hanoi
+    link: /vietnam/hanoi/
+  Hoi-An:
+    name: Hoi-An
+    link: /vietnam/hoi-an/
+  Hue:
+    name: Hue
+    link: /vietnam/hue/
 
-flickr:
-  enabled:         yes
-  cache_dir:       _cache/flickr
-  screen_name:     Richard Perry
-  api_key:         4389a0eb79c41ca17e149830c22fc7c2
-  shared_secret:   ef41108edae962b0
-  access_token:    72157641557984045-92a5dbebf3e01418
-  access_secret:   1625dbdd3cf26db6
+post_categories:
+  china-2009:
+    name: China 2009
+  three-nations:
+    name: Three Nations
+  honeymoon-2010:
+    name: Honeymoon 2010
+  new-year-2010-11:
+    name: "New Year 2010/11"
+  vietnam-2011:
+    name: Vietnam 2011
+  cornwall-2012:
+    name: Cornwall 2012

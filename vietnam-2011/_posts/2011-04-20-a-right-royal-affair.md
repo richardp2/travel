@@ -4,9 +4,9 @@ date: 2011-04-20 15:59:00+00:00
 layout: post
 title: A Right Royal Affair
 wordpress_id: 855
-tags:
+locations:
   - Vietnam
-  - Huế
+  - Hue
 redirect_from:
   - /vietnam/huế/vietnam-2011/a-right-royal-affair/
 image: https://c3.staticflickr.com/6/5280/14280578626_0b43c17ef5_q.jpg

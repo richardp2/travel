@@ -5,7 +5,7 @@ layout: post
 title: Back to Hanoi
 wordpress_id: 835
 image: https://c8.staticflickr.com/3/2910/14311885735_57f3f8ec7e_q.jpg
-tags:
+locations:
   - Vietnam
   - Hanoi
 redirect_from:
