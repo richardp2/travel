@@ -8,9 +8,6 @@
 title: Rosie & Jim's Travel Blog
 description: A blog of all our travels
 author: rosiejim
-authors:
-  - richard
-  - rosie
 url: https://travel.perry-online.me.uk
 email: travel@perry-online.me.uk
 
@@ -32,6 +29,7 @@ gems:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-feed
 
 
 ######################################
