@@ -217,6 +217,12 @@ locations:
   Hue:
     name: Hue
     link: /vietnam/hue/
+  Canada: 
+    name: Canada
+    link: /canada/
+  Ottawa:
+    name: Ottawa
+    link: /canada/ottawa/
 
 post_categories:
   china-2009:
@@ -231,3 +237,5 @@ post_categories:
     name: Vietnam 2011
   cornwall-2012:
     name: Cornwall 2012
+  canada-2017:
+    name:Canada 2017
