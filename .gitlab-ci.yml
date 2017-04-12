@@ -1,10 +1,17 @@
 image: ruby:2.3
 
-pages:
-  stage: deploy
-  script:
+# define the environment variables
+variables:
+  JEKYLL_ENV: production
+
+# 'bundle' all the required gems for the project
+before_script:
   - bundle install
-  - JEKYLL_ENV=production bundle exec jekyll build -d public
+
+# build and deploy the site
+pages:
+  script:
+  - bundle exec jekyll build -d public
   artifacts:
     paths:
     - public
