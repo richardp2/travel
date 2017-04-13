@@ -10,6 +10,7 @@ before_script:
  
 test: 
   stage: test
+  environment: staging
   script:
   - bundle exec jekyll build -d test/
   artifacts:
@@ -22,6 +23,7 @@ test:
 # build and deploy the site
 pages:
   stage: deploy
+  environment: production
   script:
   - bundle exec jekyll build -d public/
   artifacts:
