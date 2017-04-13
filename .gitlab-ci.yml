@@ -10,6 +10,7 @@ before_script:
 
 # build and deploy the site
 pages:
+  stage: deploy
   script:
   - bundle exec jekyll build -d public
   artifacts:
