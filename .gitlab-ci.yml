@@ -7,12 +7,23 @@ variables:
 # 'bundle' all the required gems for the project
 before_script:
   - bundle install
-
+ 
+test: 
+  stage: test
+  script:
+  - bundle exec jekyll build -d test/
+  artifacts:
+    paths:
+    - test
+  only:
+  - pages
+  
+  
 # build and deploy the site
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public
+  - bundle exec jekyll build -d public/
   artifacts:
     paths:
     - public
