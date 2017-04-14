@@ -1,33 +1,32 @@
+# This file is a template, and might need editing before it works on your project.
+# Template project: https://gitlab.com/pages/jekyll
+# Docs: https://docs.gitlab.com/ce/pages/
 image: ruby:2.3
 
-# define the environment variables
 variables:
   JEKYLL_ENV: production
 
-# 'bundle' all the required gems for the project
 before_script:
-  - bundle install
- 
-test: 
+- bundle install
+
+test:
   stage: test
-  environment: staging
-  script:
-  - bundle exec jekyll build -d test/
+  script: "bundle exec jekyll build -d test/"
   artifacts:
     paths:
     - test
-  only:
+  except:
   - pages
-  
-  
-# build and deploy the site
+
 pages:
   stage: deploy
-  environment: production
-  script:
-  - bundle exec jekyll build -d public/
+  environment:
+    name: "production"
+    url: "https://travel.perry-online.me.uk"
+  script: "bundle exec jekyll build -d public/"
   artifacts:
     paths:
     - public
   only:
   - pages
+
