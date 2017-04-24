@@ -31,6 +31,10 @@ enough this didn't seem to bother him, he just grabbed someone else and carried
 on!
 
 {% flickr_image 33846533781 alignright %}
-It was really nice, if a little hectic, to see my cousins again, and their families and to meet Rick's kids and their families too. Just a bit of a shame Rob, Chelsea and their tribe couldn't make it. Hopefully we'll get to catch up with them before we move on to the Toronto leg of our holiday on Saturday. 
+It was really nice, if a little hectic, to see my cousins again, and their
+families and to meet Rick's kids and their families too. Just a bit of a shame
+Rob, Chelsea and their tribe couldn't make it. Hopefully we'll get to catch up
+with them before we move on to the Toronto leg of our holiday on Saturday. 
 
-Time for bed now and maybe I'll get this posted before the end of the week :smiley:
+Time for bed now and maybe I'll get this posted before the end of the week
+:smiley:
