@@ -15,6 +15,8 @@
 - url: /
   title: Travel
   sub:
+  - url: /canada-2017/
+    title: Canada 2017
   - url: /cornwall-2012/
     title: Cornwall 2012
   - url: /vietnam-2011/
