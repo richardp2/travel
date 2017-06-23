@@ -2,8 +2,6 @@ changes
 Gemfile.lock
 _site
 _site/
-_drafts
-_drafts/
 _cache
 _cache/
 _gist_cache
