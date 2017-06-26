@@ -16,6 +16,8 @@ You can also view our archives [by place](#archives-by-location) if you prefer
 
 ## Archives by Location
 
+ * [Canada](/canada/)
+   * [Ottawa](/canada/ottawa/)
  * [China](/china/)
    * [Beijing](/china/beijing/)
    * [Chengdu](/china/chengdu/)
