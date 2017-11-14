@@ -223,6 +223,9 @@ locations:
   Ottawa:
     name: Ottawa
     link: /canada/ottawa/
+  Toronto:
+    name: Toronto
+    link: /canada/toronto/
 
 post_categories:
   china-2009:
