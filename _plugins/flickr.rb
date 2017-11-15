@@ -29,7 +29,6 @@ module Jekyll
       @photoThumbnail = params[2] || "Large Square"
       @photoEmbeded   = params[3] || "Medium 800"
       @photoOpened    = params[4] || "Large"
-      @video          = params[5] || "Site MP4"
     end
 
     def render(context)
@@ -128,7 +127,6 @@ output += "</div>\n"
         urlThumb   = String.new
         urlEmbeded = String.new
         urlOpened  = String.new
-        urlVideo   = String.new
         urlPhoto   = String.new
 
         sizes = flickr.photos.getSizes(:photo_id => id)
@@ -137,7 +135,6 @@ output += "</div>\n"
         urlThumb       = sizes.find {|s| s.label == @photoThumbnail }
         urlEmbeded     = sizes.find {|s| s.label == @photoEmbeded }
         urlOpened      = sizes.find {|s| s.label == @photoOpened }
-        urlVideo       = sizes.find {|s| s.label == @video }
         urlPhoto       = info.urls.find {|i| i.type == 'photopage' }
 
         photo = {
@@ -145,7 +142,6 @@ output += "</div>\n"
           'urlThumb' => urlThumb ? urlThumb.source : '',
           'urlEmbeded' => urlEmbeded ? urlEmbeded.source : '',
           'urlOpened' => urlOpened ? urlOpened.source : '',
-          'urlVideo' => urlVideo ? urlVideo.source : '',
           'urlFlickr' => urlVideo ? urlVideo.url : '',
           'urlPhoto' => urlPhoto ? urlPhoto._content : '',
         }
