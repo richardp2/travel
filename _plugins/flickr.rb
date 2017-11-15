@@ -56,16 +56,7 @@ module Jekyll
       end
 
       if photos.count == 1
-        if photos[0]['urlVideo'] != ''
-          output = "<p style=\"text-align: center;\">\n"
-          output += "  <video controls poster=\"#{photos[0]['urlEmbeded']}\">\n"
-          output += "    <source src=\"#{photos[0]['urlVideo']}\" type=\"video/mp4\" />\n"
-          output += "  </video>\n"
-          output += "  <br/><span class=\"alt-flickr\"><a href=\"#{photos[0]['urlFlickr']}\" target=\"_blank\">Voir la video en grand</a></span>\n"
-          output += "</p>\n"
-        else
-          output = "<p style=\"text-align: center;\"><img class=\"th\" src=\"#{photos[0]['urlEmbeded']}\" title=\"#{photos[0]['title']}\" longdesc=\"#{photos[0]['title']}\" alt=\"#{photos[0]['title']}\" /></p>\n"
-        end
+        output = "<p style=\"text-align: center;\"><img class=\"th\" src=\"#{photos[0]['urlEmbeded']}\" title=\"#{photos[0]['title']}\" longdesc=\"#{photos[0]['title']}\" alt=\"#{photos[0]['title']}\" /></p>\n"
       else
         output = "<div class='flickr #{@class}'>\n"
 
@@ -142,7 +133,6 @@ output += "</div>\n"
           'urlThumb' => urlThumb ? urlThumb.source : '',
           'urlEmbeded' => urlEmbeded ? urlEmbeded.source : '',
           'urlOpened' => urlOpened ? urlOpened.source : '',
-          'urlFlickr' => urlVideo ? urlVideo.url : '',
           'urlPhoto' => urlPhoto ? urlPhoto._content : '',
         }
 
