@@ -23,7 +23,7 @@ Richard finally completing his training (degree and chartership) and Rosie compl
 This made it seem fitting to extend the trip into more of a gap year, so we looked at the options, and
 eventually decided upon a 5&frac12; week extension travelling across China, Tibet &amp; Hong Kong :smiley:
 
-<ul id='archive'>{% assign sorted_posts = (site.posts | where: "categories" , page.category) %}
+<ul id='archive'>{% assign sorted_posts = site.posts | where: "categories" , page.category %}
 {% for post in sorted_posts %}
     {% include archives.html %}
 {% endfor %}

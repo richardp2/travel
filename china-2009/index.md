@@ -32,7 +32,7 @@ eventually decided upon a 5&frac12; week extension travelling across China, Tibe
      src="https://github.global.ssl.fastly.net/images/icons/emoji/smiley.png" 
      style="height:20px;width:20px;">
 
-<ul id='archive'>{% assign sorted_posts = (site.posts | where: "categories" , page.category) %}
+<ul id='archive'>{% assign sorted_posts = site.posts | where: "categories" , page.category %}
 {% for post in sorted_posts %}
     {% include archives.html %}
 {% endfor %}

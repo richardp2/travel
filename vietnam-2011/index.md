@@ -10,7 +10,7 @@ redirect_from:
   - /vietnam/huế/vietnam-2011/
 ---
 
-<ul id='archive'>{% assign sorted_posts = (site.posts | where: "categories" , page.category) %}
+<ul id='archive'>{% assign sorted_posts = site.posts | where: "categories" , page.category %}
 {% for post in sorted_posts %}
     {% include archives.html %}
 {% endfor %}

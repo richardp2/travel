@@ -26,7 +26,7 @@ opportunity to see the incredible fireworks display over Reykjavik to see in the
 thoroughly recommend taking a visit to Iceland, but maybe do it in March or September to get the
 best of the daylight, and the best of the dark (for the Northern Lights obviously).
 
-<ul id='archive'>{% assign sorted_posts = (site.posts | where: "categories" , page.category) %}
+<ul id='archive'>{% assign sorted_posts = site.posts | where: "categories" , page.category %}
 {% for post in sorted_posts %}
     {% include archives.html %}
 {% endfor %}

@@ -37,7 +37,7 @@ the square and the light creeps on through.
 The D'jemaa el Fna is truly the most interesting and diverse place in Marrakech and is definitely somewhere everyone
 should see at least once in their lifetime.
 
-<ul id='archive'>{% assign sorted_posts = (site.posts | where: "categories" , page.category) %}
+<ul id='archive'>{% assign sorted_posts = site.posts | where: "categories" , page.category %}
 {% for post in sorted_posts %}
     {% include archives.html %}
 {% endfor %}
