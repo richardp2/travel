@@ -1,14 +1,22 @@
-# This file is a template, and might need editing before it works on your project.
 # Template project: https://gitlab.com/pages/jekyll
 # Docs: https://docs.gitlab.com/ce/pages/
 image: ruby:2.3
 
+# Define the environment variables
 variables:
   JEKYLL_ENV: production
 
-before_script:
-- bundle install
+# Add bundle cache to 'vendor' & untracked files for speeding up builds
+cache:
+  untracked: true
+  paths: 
+    - vendor/
 
+# 'Bundle' all the required gems for the project
+before_script:
+  - bundle install --path vendor
+
+# Build and deploy the site
 pages:
   stage: deploy
   environment:
@@ -18,7 +26,8 @@ pages:
   - bundle exec jekyll build -d public
   artifacts:
     paths:
-    - public
+    - public/
+    when: always
   only:
   - pages
 
