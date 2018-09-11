@@ -3,6 +3,8 @@ date: 2009-07-15 20:00:02+00:00
 title: The journey begins
 wordpress_id: 40
 image: https://farm6.static.flickr.com/5515/14258613876_c53c6fe8a0_q.jpg
+redirect_from:
+  - /china-2009/three-nations/the-journey-begins/
 ---
 
 Having arrived at Rachel's house last night, we got up this morning to a little last minute

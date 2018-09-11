@@ -5,6 +5,8 @@ wordpress_id: 149
 locations:
 - China
 - Beijing
+redirect_from:
+  - /china/beijing/china-2009/three-nations/ming-tombs-and-the-great-wall/
 ---
 
 Train arrived in Beijing at about 0715. Headed to KFC for breakfast then visited the Sacred Way and the Ming Tombs. Continued on to Jinshangling to the Great Wall.

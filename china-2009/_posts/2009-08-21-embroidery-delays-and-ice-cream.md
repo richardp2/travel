@@ -5,6 +5,8 @@ wordpress_id: 242
 locations:
 - China
 - Shanghai
+redirect_from:
+  - /china/shanghai/china-2009/embroidery-delays-and-ice-cream/
 ---
 
 On arriving in Yichang, we disembarked the cruise and met our guide who was due to stay with us for the shortest period possible. We stopped to take some pictures for a bridge high above one of the Yangtze tributaries, and cruised through the centre of Yichang, stopping at an embrodery museum to see some absolutely outstanding embroidery. There were pieces there that were double sided, but had different pictures on each side, and many pieces that looked like very good paintings. All in all a surprisingly enjoyable 20mins. We then went to the airport.<!-- more -->

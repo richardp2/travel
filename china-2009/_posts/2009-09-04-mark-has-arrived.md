@@ -5,6 +5,8 @@ wordpress_id: 368
 locations:
 - China
 - Hong-Kong
+redirect_from:
+  - /china/hong-kong/china-2009/mark-has-arrived/
 ---
 
 [![Monkey on the Central - Mid levels escalator](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAwOS8yMDA5LjA4LjA1IC0gMjAwOS4wOS4xMSBUb3VyIG9mIENoaW5hLzIwMDkuMDguMzEgLSAyMDA5LjA5LjExIEhvbmcgS29uZy8qSU1HXzQ2NjIuSlBHKippbWFnZSoqOGQ5OTMwNGM5Y2YwMjRjMjVhYWUwYTYzNGI4ZmNkYjkamp-199x300.jpg)](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAwOS8yMDA5LjA4LjA1IC0gMjAwOS4wOS4xMSBUb3VyIG9mIENoaW5hLzIwMDkuMDguMzEgLSAyMDA5LjA5LjExIEhvbmcgS29uZy8qSU1HXzQ2NjIuSlBHKippbWFnZSoqOGQ5OTMwNGM5Y2YwMjRjMjVhYWUwYTYzNGI4ZmNkYjkamp.jpg)

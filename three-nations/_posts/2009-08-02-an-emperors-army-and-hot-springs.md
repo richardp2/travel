@@ -5,6 +5,9 @@ wordpress_id: 145
 locations:
 - China
 - Xian
+redirect_from:
+  - /china/xi'an/china-2009/three-nations/an-emperors-army-and-hot-springs/
+  - /china/xi%27an/china-2009/three-nations/an-emperors-army-and-hot-springs/
 ---
 
 Arrived in Xi'an about 08:00, taken straight to restaurant for breakfast. Turns out Xi'an is in the Sichuan province so almost all dishes contained chillies!

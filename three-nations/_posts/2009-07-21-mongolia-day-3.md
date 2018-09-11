@@ -6,6 +6,8 @@ locations:
 - Mongolia
 - Tov
 flickimg: 14280260012
+redirect_from:
+  - /mongolia/t%C3%B6v/china-2009/three-nations/mongolia-day-3/
 ---
 
 Day 3 started very slowly, it was our day on site so we all had a lie in, then waited for the Mongolian

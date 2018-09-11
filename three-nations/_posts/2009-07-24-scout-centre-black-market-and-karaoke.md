@@ -5,6 +5,8 @@ wordpress_id: 114
 locations:
 - Mongolia
 - Ulaanbaatar
+redirect_from:
+  - /mongolia/ulaanbaatar/china-2009/three-nations/scout-centre-black-market-and-karaoke/
 ---
 
 Today we took a ride into Ulaanbaatar to work on the Scout Project in the centre. The project involved helping the local Scouts to sort out their first Scout Hut. The building was in place, so it was just finishing the building that was required. Once we have a copy of what the Scout Project originally looked like, we will post it here. When we arrived there was only a small amount of white paint left so the caretaker was dispatched to the local hardware store while we used up the last of the paint. We then had an hour's break waiting for the paint to arrive. When it did, our bus driver told us we were leaving for lunch. At this point we protested as we had not actually completed the work we set out to do, instead we opened up the new tins of paint and everyone got involved to get the white wall finished as quickly as possible so we didn't delay the rest of the program too much.

@@ -5,6 +5,8 @@ wordpress_id: 122
 locations:
 - Mongolia
 - Tov
+redirect_from:
+  - /mongolia/t%C3%B6v/china-2009/three-nations/national-park-litter-pick/
 ---
 
 As part of the service projects we were asked to do a litter sweep of the valley from the entrance of the National Park up to the temple. After a fairly good lie in, this was today's task. On entry through the park gates the 80 (ish) of us lined up and set off. In total it took approximately 4 hours to complete the sweep of the valley and we must have easily filled 120 black bin bags with rubbish. We headed back to site then for a relaxing afternoon/evening. Dawn ran a guided meditation for those that were interested and a lot of people washed clothes.

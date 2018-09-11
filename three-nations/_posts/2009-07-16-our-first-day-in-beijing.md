@@ -6,6 +6,8 @@ locations:
 - China
 - Beijing
 image: https://farm3.static.flickr.com/2897/14095194459_3166872791_q.jpg
+redirect_from:
+  - /china/beijing/china-2009/three-nations/our-first-day-in-beijing/
 ---
 
 Dinner was also very nice, we had steamed chicken, black mushrooms and Jasmin rice with an awesome

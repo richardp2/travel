@@ -5,6 +5,8 @@ wordpress_id: 326
 locations:
 - China
 - Hong-Kong
+redirect_from:
+  - /china/hong-kong/china-2009/last-stop-hong-kong/
 ---
 
 Yesterday we got up late (again!) and checked out just in time, after a quick lunch, we were whisked away to the airport for our final transfer flight, and our last stop, Hong Kong. We arrived in Hong Kong and it was then time for my travel guide (Rosie) to sort us out :). We picked up our Octupus cards and tickets for the Airport Express and headed into Kowloon. After struggling around the complex for a bit, we found a taxi to take us to our hotel. The hotel seemed very nice from the outside, but they had managed to screw everything up and tried charging us a lot more than we agreed to pay, and requested a HK$1000 deposit (about £80). This, however, should be sorted soon because Alex and Mitzi (from Wexas) are on the case.

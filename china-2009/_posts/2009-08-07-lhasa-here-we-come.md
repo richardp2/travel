@@ -5,6 +5,8 @@ wordpress_id: 164
 locations:
 - Tibet
 - Lhasa
+redirect_from:
+  - /tibet/lhasa/china-2009/lhasa-here-we-come/
 ---
 
 Had an early flight from Beijing to Lhasa this morning. Left the hotel just before 0400. After at the aiport very early because the hours taxi ride only lasted 30mins and left the hotel early.

@@ -5,6 +5,8 @@ wordpress_id: 109
 locations:
 - Mongolia
 - Tov
+redirect_from:
+  - /mongolia/t%C3%B6v/china-2009/three-nations/hiking-through-the-mongolian-national-park/
 ---
 
 The next day we awoke to a clear sky, which was good as it was our day hiking through the National Park. As usual we set off on Mongolian time i.e. late! But it was only expected to be about 15 miles of relatively easy walking with a bit of scrambling. Turns out altitude is a pain in the neck!

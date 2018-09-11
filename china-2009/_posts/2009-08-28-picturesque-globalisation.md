@@ -5,6 +5,8 @@ wordpress_id: 309
 locations:
 - China
 - Yangshuo
+redirect_from:
+  - /china/yangshuo/china-2009/picturesque-globalisation/
 ---
 
 

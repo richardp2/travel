@@ -5,6 +5,8 @@ wordpress_id: 254
 locations:
 - China
 - Shanghai
+redirect_from:
+  - /china/shanghai/china-2009/gardens-canals-and-wedding-dresses/
 ---
 
 Today we visited Suzhou. This is a small city, of only about 6million people, about 2 hours from Shanghai. The place is famed for it's beautiful Chinese Gardens and canals, but on approach to the town, it appears that they should be famous for wedding dress shops! Our guide informed us that this was indeed the place to buy dresses as there are in excess of 100 shops dedicated to wedding dresses and the relevant accessories!<!-- more -->

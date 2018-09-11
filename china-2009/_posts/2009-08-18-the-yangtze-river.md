@@ -5,6 +5,8 @@ wordpress_id: 227
 locations:
 - China
 - Yangtze
+redirect_from:
+  - /china/yangtze/china-2009/the-yangtze-river/
 ---
 
 Well we are now in Shanghai after a wonderful cruise along the Yangtze river, so now that we have an internet connection, here's an update...

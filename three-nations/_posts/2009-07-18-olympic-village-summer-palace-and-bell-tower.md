@@ -5,6 +5,8 @@ wordpress_id: 77
 locations:
 - China
 - Beijing
+redirect_from: 
+  - /china/beijing/china-2009/three-nations/olympic-village-summer-palace-and-bell-tower/
 ---
 
 Our first day of sun today :) and our last day in Beijing for 12 days :(. Plans did not change today so

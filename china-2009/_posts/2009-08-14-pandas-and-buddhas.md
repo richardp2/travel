@@ -5,6 +5,8 @@ wordpress_id: 183
 locations:
 - China
 - Chengdu
+redirect_from:
+  - /china/chengdu/china-2009/pandas-and-buddhas/
 ---
 
 Yesterday morning started off a whole lot better than the previous one. We had breakfast early and were waiting in reception at the right time. So when our guide arrived, we headed straight off to the Chengdu Panda Research Base just outside the city. On route, "Bob" told us why pandas like living in the Sichuan province. It turns out, pandas are very lazy and so are the people of the Sichuan province, so they get on brilliantly!

@@ -5,6 +5,8 @@ wordpress_id: 282
 locations:
 - China
 - Guilin
+redirect_from:
+  - /china/guilin/china-2009/paddy-fields-and-landslides/
 ---
 
 

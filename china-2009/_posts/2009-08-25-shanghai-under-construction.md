@@ -5,6 +5,8 @@ wordpress_id: 270
 locations:
 - China
 - Shanghai
+redirect_from:
+  - /china/shanghai/china-2009/shanghai-under-construction/
 ---
 
 [](http://travel.perry-online.me.uk/files/2012/08/sfpgMjAwOS8yMDA5LjA4LjA1IC0gMjAwOS4wOS4xMSBUb3VyIG9mIENoaW5hLzIwMDkuMDguMjAgLSAyMDA5LjA4LjI2IFNoYW5naGFpLypJTUdfMzg5My5KUEcqKmltYWdlZm9ybSoqZDQ3NmMzZmExZTI3ZTA0MWViNDVmNDI1YjhmNGY1NDQ.jpg) 

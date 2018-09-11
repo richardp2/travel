@@ -5,6 +5,8 @@ wordpress_id: 213
 locations:
 - China
 - Chongqing
+redirect_from:
+  - /china/chongqing/china-2009/rock-carvings-cityscapes/
 ---
 
 In a change to our regularly scheduled programming, we went to Dazu today to see the rock carvings dating back as far as the 7th century. The carvings show stories influenced by Buddhist, Confucian and Taoist beliefs. We visisted one of the main sites at Mount Baoding.

@@ -5,6 +5,8 @@ wordpress_id: 129
 locations:
 - Mongolia
 - Tov
+redirect_from: 
+  - /mongolia/t%C3%B6v/china-2009/three-nations/naadam-festival/
 ---
 
 The day has arrived for us all to take part in a mock Naadam Festival run by the Mongolian Rover Scouts. The day began in the usual lazy manner, with the archery competition starting only about 1 hour late. The competition was split into two categories - male and female, and each Aravt stepped up one at a time. The target was a toilet roll within a very small wall made up of black wicker baskets (I think) about the size of a toilet roll so the competition was fierce with almost nobody hitting the target even once. It then came to the turn of Tiger Aravt (i.e. us). Out of the 8 of us shooting, 4 of us hit the target at least once guaranteeing us a place in the final. There were a couple more people who managed to hit the target, but the finals were still dominated by Tigers :). The Mens final was quickly dispatched, but the Womens final had to go down to "Golden Arrow". In the end, Tigers were victorious with myself winning the Mens competition, and Dawn winning the Womens competition :).

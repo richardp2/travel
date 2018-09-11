@@ -5,6 +5,8 @@ wordpress_id: 237
 locations:
 - China
 - Yangtze
+redirect_from:
+  - /china/yangtze/china-2009/the-three-gorges/
 ---
 
 Our next day on the cruise led us into the first of the Three Gorges, the Qutang Gorge. Our friendly neighbourhood River Guide, Campbell, gave us a running commentary of our journey through the shortest of the Three Gorges. After lunch, we got off the boat again, but this time we were herded into small boats for a trip up the Daning River to see the Lesser Three Gorges. Here we saw the Hanging Coffins, and local monkeys :). About an hour and a half into the journey, we had to transfer to even smaller craft for the final section of the river, again a very interesting journey. We then reversed the boat hopping on our way back to the main cruise boat.

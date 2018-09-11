@@ -7,6 +7,8 @@ wordpress_id: 516
 locations:
 - Morocco
 - Marrakech
+redirect_from:
+  - /morocco/marrakech/honeymoon-2010/honeymoon-day-one/
 ---
 
 Well we are now married after a beautiful ceremony at the St Pierre Hotel in Chepstow. The day was glorious, sunshine, good food, great company, hopefully some fantastic photos, the works!! Having got that out of the way, we are now on to the important bit, the Honeymoon. We've decided on a week in Marrakech as part of an all inclusive package holiday. That should make it sufficiently unusual for it to be very memorable (the fact it is a package holiday is unusual in itself!!)

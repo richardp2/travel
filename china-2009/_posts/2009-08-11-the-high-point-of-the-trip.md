@@ -5,6 +5,8 @@ wordpress_id: 177
 locations:
 - Tibet
 - Lhasa
+redirect_from:
+  - /tibet/lhasa/china-2009/the-high-point-of-the-trip/
 ---
 
 Yesterday we were taken on a short tour of the countryside of Tibet finishing at Namtso Lake - the highest lake in the world (4718m). The 8 hour drive took us through some very dramatic scenery, with the Himalaya's above us and numerous rivers snaking round us. The route to the lake took us over a mountain pass at a height of 5190m, a full 1490m higher than Lhasa (Yes, that is more than the height of Ben Nevis). That was the highest point we will reach during our stay here in China!

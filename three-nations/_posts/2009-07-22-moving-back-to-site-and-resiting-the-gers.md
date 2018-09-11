@@ -5,6 +5,8 @@ wordpress_id: 107
 locations:
 - Mongolia
 - Tov
+redirect_from:
+  - /mongolia/t%C3%B6v/china-2009/three-nations/moving-back-to-site-and-resiting-the-gers/
 ---
 
 Having had a good nights sleep in proper beds at the shelter, we all felt a little more refreshed. A scouting party was sent back to site to assess the damage so we headed out into Zuunmod to see what was about. It turns out, not a whole lot. It was interesting to see that a lot of the shops appeared to be operating out of people's front rooms.

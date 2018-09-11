@@ -5,6 +5,8 @@ wordpress_id: 134
 locations:
 - Mongolia
 - Tov
+redirect_from:
+  - /mongolia/t%C3%B6v/china-2009/three-nations/service-project-review-day/
 ---
 
 Todays programme our "Review Day". We started the day early so that the all the reviews could be completed in time for lunch. Everyone boarded the coaches (yes, that is coaches parked in the middle of a field 4 miles from the nearest road). Our first stop was the Temple Restoration project. On arrival, a number of the groups were both surprised and pleased with the progress made since the day they worked on the temple. We were less so, due to the fact we were the last group working on it. We all gathered together outside the temple and were graciously thanked by the head Lama, with a little help from our translator. We were then invited into the temple where we presented a sizeable donation to the temple for the remainder of the restoration work, and the monks performed a ritual of thanks with much chanting.

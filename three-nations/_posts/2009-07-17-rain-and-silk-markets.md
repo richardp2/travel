@@ -5,6 +5,8 @@ wordpress_id: 74
 locations:
 - China
 - Beijing
+redirect_from:
+  - /china/beijing/china-2009/three-nations/rain-and-silk-markets/
 ---
 
 We got up nice and early for breakfast so we were ready for today's programme, only to find that the

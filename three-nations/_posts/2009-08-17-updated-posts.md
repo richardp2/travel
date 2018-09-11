@@ -4,6 +4,8 @@ title: Updated Posts
 wordpress_id: 202
 post_format:
 - Aside
+redirect_from:
+  - /china-2009/three-nations/updated-posts/
 ---
 
 We have finally started updating our earlier posts. The list below will grow as all the earlier posts are updated.

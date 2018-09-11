@@ -5,6 +5,8 @@ wordpress_id: 154
 locations:
 - China
 - Beijing
+redirect_from:
+  - /china/beijing/china-2009/goodbye-beijing/
 ---
 
 Took a relaxed approach to our last day in Beijing to recover from the Three Nations Expedition. Went to visit Peter Danford, who told us about a good restaurant, and a good place to get camera memory cards.

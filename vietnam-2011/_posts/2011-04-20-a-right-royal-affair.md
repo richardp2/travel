@@ -9,6 +9,7 @@ locations:
   - Hue
 redirect_from:
   - /vietnam/huế/vietnam-2011/a-right-royal-affair/
+  - /vietnam/hu%E1%BA%BF/vietnam-2011/a-right-royal-affair/
 image: https://c3.staticflickr.com/6/5280/14280578626_0b43c17ef5_q.jpg
 ---
 
