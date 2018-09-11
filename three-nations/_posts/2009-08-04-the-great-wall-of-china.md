@@ -3,8 +3,10 @@ date: 2009-08-04 21:00:35+00:00
 title: The Great Wall of China
 wordpress_id: 151
 locations:
-- China
-- Beijing
+  - China
+  - Beijing
+redirect_from:
+  - /china/beijing/china-2009/three-nations/the-great-wall-of-china/
 ---
 
 Woke up to a heavy dew, so sleeping bags a little damp. Packed up our kit and by 0630 we were on our way to Simitai, 30 watchtowers (6 miles) along the wall. Incredible day, amazing views. Everything we imagined.
