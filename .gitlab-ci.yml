@@ -1,33 +1,28 @@
-# Template project: https://gitlab.com/pages/jekyll
-# Docs: https://docs.gitlab.com/ce/pages/
-image: ruby:latest
+default:
+  image: ruby:3.2
+  # 'Bundle' all the required gems for the project
+  before_script:
+    - gem install bundler
+    - bundle install --path vendor
+  # Add bundle cache to 'vendor' & untracked files for speeding up builds
+  cache:
+    paths: 
+      - vendor/
 
-# Define the environment variables
-variables:
-  JEKYLL_ENV: production
-
-# Add bundle cache to 'vendor' & untracked files for speeding up builds
-cache:
-  untracked: true
-  paths: 
-    - vendor/
-
-# 'Bundle' all the required gems for the project
-before_script:
-  - bundle install --path vendor
+# Add a workflow to force the pipeline to run only when changes are pushed to branches
+workflow:
+  rules:
+    - if: $CI_COMMIT_BRANCH
 
 # Build and deploy the site
-pages:
+create-pages:
   stage: deploy
-  environment:
-    name: "production"
-    url: "https://travel.perry-online.me.uk"
   script: 
-  - bundle exec jekyll build -d public
-  artifacts:
-    paths:
-    - public/
-    when: always
-  only:
-  - pages
+    - bundle exec jekyll build -d public
+  # specifies that this is a Pages job and publishes the default public directory
+  pages: true
+  # specify on which branch this pipeline will run
+  rules:
+    - if: $CI_COMMIT_BRANCH == "pages"
+  environment: production
 
